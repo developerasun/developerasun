@@ -22,15 +22,10 @@ func (g *goals) doThis(whatToStudy ...string) string {
     return "a developer that eveyone wants to work with"
 }
 
-SQL
-(will be added) 
-```
-
 ### Who am I and Why am I here - Jake Sung Profile 👋
 
-- 🔭 I’m a curious self-taught developer who is interested in NFT and AI machine learning
-- 🌱 I have just started learning Go and Python while running my own etsy shop: designerasun.etsy.com 
-- 👯 I’m looking to collaborate on: 1) Ethereum NFT dApp 2) cat to human translation app using machine/deep learning as my side projects 
-- 🤔 I’m looking for help with: 1) solidity, truffle, ERC-721 2) machine learning 3) coding test(interview for developer job)
-- 📫 How to reach me: 1) Email - nellow1102@gmail.com 2) Phone - +821029852984
+- 🔭 I’m a curious self-taught developer who just likes creating something new
+- 🌱 I have just started learning Go and Python
+- 👯 I’m looking to collaborate on my side project : Meow Canvas(NFT cat drawing with ranking system)
+- 📫 How to reach me: 1) Email - asuntheawesome@gmail.com
 - ⚡ Fun fact: Asun is my nickname, short for Jake Sung. 
