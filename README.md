@@ -25,7 +25,7 @@ func (g *goals) doThis(whatToStudy ...string) string {
 ### Who am I and Why am I here - Jake Sung Profile 👋
 
 - 🔭 I’m a curious self-taught developer who just likes creating something new
-- 🌱 I have just started learning Go and Python
+- 🌱 Skillset being developed : Backend - Python, Go | Frontend: HTML, CSS, JS
 - 👯 I’m looking to collaborate on my side project : Meow Canvas(NFT cat drawing with ranking system)
-- 📫 How to reach me: 1) Email - asuntheawesome@gmail.com
+- 📫 How to reach me: 1) Email - nellow1102@gmail.com
 - ⚡ Fun fact: Asun is my nickname, short for Jake Sung. 
