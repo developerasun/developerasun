@@ -1,5 +1,5 @@
 <img src = https://img.shields.io/badge/Blockchain-NFT-blue></a>
-<img src = https://img.shields.io/badge/A.I-Translation-red></a>
+<img src = https://img.shields.io/badge/A.I-machineLearning-red></a>
 
 ``` 
 Python3
@@ -21,6 +21,15 @@ func (g *goals) doThis(whatToStudy ...string) string {
     }
     return "a developer that eveyone wants to work with"
 }
+
+SQL
+SELECT goals FROM p1 PROJECT1
+FULL OUTER JOIN p2 PROJECT2
+ON p1.NFT = p2.machineLearning
+WHERE TYPE = study
+LIMIT 2
+
+```
 
 ### Who am I and Why am I here - Jake Sung Profile 👋
 
