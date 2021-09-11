@@ -1,9 +1,9 @@
-<img src = https://img.shields.io/badge/Blockchain-NFT-blue></a>
 <img src = https://img.shields.io/badge/A.I-machineLearning-red></a>
+<img src = https://img.shields.io/badge/Blockchain-NFT-blue></a>
 
 ``` 
 Python3
-def goals(project1 : NFT, prodjct2: Machine learning) -> cool developer with great salary : 
+def goals(project1 : NFT, project2: Machine learning) -> cool developer with a great salary : 
     while ( my codes == reads well AND functions well ) : 
         study.append(books, docs, *side proejcts)
     return "a developer that eveyone wants to work with"
