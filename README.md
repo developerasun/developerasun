@@ -14,10 +14,12 @@
 ![Go](https://img.shields.io/badge/Go-00add8?style=square&logo=Go&logoColor=white)
   
 ## Interest
-<li>React JS, Typescript, Node JS, PostgreSQL, Docker</li>
-<li>Web development</li>
-<li>Blockchain NFT, DeFi</li>
-<li>Machine learning content recommendation(recommender system), image similarity</li>
+<li>Front : React JS, Typescript</li>
+<li>Back : Node JS </li>
+<li>Database : PostgreSQL(SQL), MongoDB(No-SQL)</li>
+<li>Blockchain : NFT, DeFi</li>
+<li>Deep learning : GAN, Recommender </li>
+<li>Etc: Docker, Jira </li>
 
 # Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)
