@@ -1,6 +1,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloperasun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=gnuicecat.svg&icon_color=%2379C83D&title=hits&edge_flat=false)
-# My Project : Learn To Build, Make To Sell
-<img src="https://user-images.githubusercontent.com/83855174/135838648-ab7b1423-ecc9-42c9-b0c0-7d438ab2636a.png" width=800px height=500px />
+
+# Motto
+A self-taught front end developer with business mind.
 
 # Stats
 ![developerasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerasun&theme=highcontrast&show_icons=true)
@@ -14,12 +15,17 @@
 ![Go](https://img.shields.io/badge/Go-00add8?style=square&logo=Go&logoColor=white)
   
 ## Interest
-<li>Front : React JS, Typescript</li>
-<li>Back : Node JS </li>
-<li>Database : PostgreSQL(SQL), MongoDB(No-SQL)</li>
-<li>Blockchain : NFT, DeFi</li>
-<li>Deep learning : GAN, Recommender </li>
-<li>Etc: Docker, Jira </li>
+|Type|Subject|Deadline|
+|:--:|:-------------------:|:------------:|
+|Front|React JS|Dec, 2021|
+|Front|Typescript|Apr, 2022|
+|Back|Node Js|?|
+|Database|PostgreSQL|?|
+|Database|MongoDB(No-SQL)|?|
+|Blockchain|NFT, DeFi|?|
+|Deep learning|GAN, Recommender|?|
+|Etc|Docker, Jira, Design pattern, UI/UX, HTTP, Algorithm|?|
+
 
 # Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)
