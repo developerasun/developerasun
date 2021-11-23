@@ -20,15 +20,16 @@
 ![Go](https://img.shields.io/badge/Go-00add8?style=square&logo=Go&logoColor=white)
   
 ## To-be
-|Type|Subject|Since|Learning Curve|
-|:--:|:-------------------:|:------------:|
-|Front|React JS|Nov 2021|
-|Front|Typescript|?|
-|Back|Node Js|?|
+|Type|Subject|Since|Learning curve|
+|:--:|:-------------------:|:------------:|:---:|
+|Front|React JS|Nov 2021|2 month|
+|Front|Typescript|Jan 2022|3 month|
+|Back|Node Js|Dec 2021|2 month|
 |Database|PostgreSQL|?|
 |Database|MongoDB(No-SQL)|?|
 |Blockchain|NFT, DeFi|?|
 |Deep learning|GAN, Recommender|?|
+|VR/AR|Unity|?|
 |Etc|Docker, AWS|?|
 
 
