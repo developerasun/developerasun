@@ -1,5 +1,10 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloperasun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=gnuicecat.svg&icon_color=%2379C83D&title=hits&edge_flat=false)
 
+# Identity
+- A self-taught developer with businessmanship
+- Learn to build, make to sell
+- Code since Jan 2021
+
 # Stats
 ![developerasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerasun&theme=highcontrast&show_icons=true)
 
@@ -15,16 +20,16 @@
 ![Go](https://img.shields.io/badge/Go-00add8?style=square&logo=Go&logoColor=white)
   
 ## To-be
-|Type|Subject|Deadline|
+|Type|Subject|Since|Learning Curve|
 |:--:|:-------------------:|:------------:|
-|Front|React JS|Dec, 2021|
-|Front|Typescript|Apr, 2022|
-|Back|Node Js|Dec, 2021|
+|Front|React JS|Nov 2021|
+|Front|Typescript|?|
+|Back|Node Js|?|
 |Database|PostgreSQL|?|
 |Database|MongoDB(No-SQL)|?|
 |Blockchain|NFT, DeFi|?|
 |Deep learning|GAN, Recommender|?|
-|Etc|Docker, Jira, Design pattern, UI/UX, HTTP, Algorithm|?|
+|Etc|Docker, AWS|?|
 
 
 # Contact
