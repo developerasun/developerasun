@@ -3,7 +3,7 @@
 # Identity
 - Code since May 2021
 - Learn to build, make to sell
-- [See here for more, (mobile recommended)](https://meowcanvas.netlify.app/assets/pages/about.html)
+- [See my career here (Mobile, about Jake Sung)](https://meowcanvas.netlify.app/assets/pages/about.html)
 
 # Stats
 ![developerasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerasun&theme=highcontrast&show_icons=true)
@@ -22,17 +22,19 @@
 ![Python](https://img.shields.io/badge/Python-16711680?style=square&logo=Python&logoColor=white)
   
 ## To-be
-|Type|Subject|Since|Learning order|
+|Importance|Subject|Since|Priority|
 |:--:|:-------------------:|:------------:|:---:|
-|Front|React JS|Nov 2021|current|
-|Front|Typescript|Jan 2022|#2|
-|Back|Node Js|Dec 2021|#1|
-|Database|PostgreSQL|#1|
-|Database|MongoDB(No-SQL)|?|
-|Blockchain|NFT, DeFi|use open source|
-|Deep learning|GAN, Recommender|use open source|
-|VR/AR|Unity|?|
-|Etc|Docker, AWS|?|
+|Essential|React JS|Nov 2021|ongoing|
+|Essential|Typescript|Jan 2022|#2|
+|Essential|Node Js|Dec 2021|#1|
+|Basic|PostgreSQL|?|
+|Basic|MongoDB(No-SQL)|?|
+|Interest|Three JS, 2D & 3D game, Solidity|?|
+|Interest|NFT, DeFi|?|
+|Interest|GAN, Recommender|?|
+|Interest|Unity|?|
+|Interest|IOS, Swift|?|
+|Interest|Docker, AWS|?|
 
 
 # Contact
