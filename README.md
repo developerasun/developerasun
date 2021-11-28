@@ -3,7 +3,7 @@
 # Identity
 - Code since May 2021
 - Learn to build, make to sell
-- [See my career here (Mobile, about Jake Sung)](https://meowcanvas.netlify.app/assets/pages/about.html)
+- [See my career here (Mobile, about Jake Sung)](https://bit.ly/my_secret_box)
 
 # Stats
 ![developerasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerasun&theme=highcontrast&show_icons=true)
