@@ -3,7 +3,7 @@
 # Identity
 - Code since May 2021
 - Learn to build, make to sell
-- [See my career here (Mobile, about Jake Sung)](https://bit.ly/my_secret_box)
+- [See my career here](https://bit.ly/my_secret_box)
 
 # Stats
 ![developerasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerasun&theme=highcontrast&show_icons=true)
@@ -13,26 +13,26 @@
 
 # Stack
 ## Front end
-![HTML5](https://img.shields.io/badge/HTML-red?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=square&logo=CSS3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=square&logo=Javascript&logoColor=white) ![React](https://img.shields.io/badge/React-4CDAFB?style=square&logo=React&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-black?style=square&logo=CSS3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-black?style=square&logo=Javascript&logoColor=white) ![React](https://img.shields.io/badge/React-white?style=square&logo=React&logoColor=black)
 
 ## Backend
-![Go](https://img.shields.io/badge/Go-00add8?style=square&logo=Go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-black?style=square&logo=Go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-white?style=square&logo=Javascript&logoColor=black)
 
 ## Data analysis
-![Python](https://img.shields.io/badge/Python-16711680?style=square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=square&logo=Python&logoColor=white)
   
 ## To-be
 |Importance|Subject|Since|Priority|
 |:--:|:-------------------:|:------------:|:---:|
 |Essential|React JS|Nov 2021|ongoing|
+|Essential|Node Js|Dec 2021|ongoing|
 |Essential|Typescript|Jan 2022|#2|
-|Essential|Node Js|Dec 2021|#1|
 |Basic|PostgreSQL|?|
 |Basic|MongoDB(No-SQL)|?|
-|Interest|Three JS, 2D & 3D game, Solidity|?|
-|Interest|NFT, DeFi|?|
+|Interest|Three JS, web AR/VR|?|
+|Interest|Solidity, NFT, DeFi|?|
 |Interest|GAN, Recommender|?|
-|Interest|Unity|?|
+|Interest|Unity, 2D/3D game|?|
 |Interest|IOS, Swift|?|
 |Interest|Docker, AWS|?|
 
