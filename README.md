@@ -12,21 +12,19 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cff13d30-a0b0-4e6a-8f25-0c5bbc743349.png" width=600px height=400px/></a>
 
 # Stack
-## Front end
-![HTML5](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-black?style=square&logo=CSS3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-black?style=square&logo=Javascript&logoColor=white) ![React](https://img.shields.io/badge/React-white?style=square&logo=React&logoColor=black)
+## Front End
+![HTML5](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-black?style=square&logo=CSS3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-black?style=square&logo=Javascript&logoColor=white) ![React](https://img.shields.io/badge/React-white?style=square&logo=React&logoColor=black)![Redux](https://img.shields.io/badge/Redux-white?style=square&logo=Redux&logoColor=black)
 
 ## Backend
-![Go](https://img.shields.io/badge/Go-black?style=square&logo=Go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-white?style=square&logo=Javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-black?style=square&logo=Go&logoColor=white)![Python](https://img.shields.io/badge/Python-black?style=square&logo=Python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-white?style=square&logo=Javascript&logoColor=black)
 
-## Data analysis
-![Python](https://img.shields.io/badge/Python-black?style=square&logo=Python&logoColor=white)
   
 ## To-be
 |Importance|Subject|Since|Priority|
 |:--:|:-------------------:|:------------:|:---:|
-|Essential|React JS|Nov 2021|ongoing|
-|Essential|Node Js|Dec 2021|ongoing|
-|Essential|Typescript|Jan 2022|#2|
+|Essential|React/Redux|Nov 2021|ongoing|
+|Essential|Node.js|Nov 2021|ongoing|
+|Essential|Typescript|2022|next|
 |Basic|PostgreSQL|?|
 |Basic|MongoDB(No-SQL)|?|
 |Interest|Three JS, web AR/VR|?|
