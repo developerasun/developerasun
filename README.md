@@ -24,16 +24,15 @@
 |:--:|:-------------------:|:------------:|:---:|
 |Essential|React/Redux|Nov 2021|ongoing|
 |Essential|Node.js|Nov 2021|ongoing|
-|Essential|Typescript|2022|next|
-|Basic|PostgreSQL|?|
-|Basic|MongoDB(No-SQL)|?|
-|Interest|Three JS, web AR/VR|?|
-|Interest|Solidity, NFT, DeFi|?|
-|Interest|GAN, Recommender|?|
+|Basic|MySQL/MariaDB|Dec 2021|#1|
+|Interest|Three JS, web AR/VR|2022|#2|
+|Interest|Solidity, NFT|2022|#3|
+|Essential|Typescript|2022|?|
+|Basic|MongoDB(No-SQL)|2022|?|
+|Interest|GAN|2022|?|
 |Interest|Unity, 2D/3D game|?|
 |Interest|IOS, Swift|?|
 |Interest|Docker, AWS|?|
-
 
 # Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)
