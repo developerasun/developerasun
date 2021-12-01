@@ -2,7 +2,7 @@
 
 # Identity
 - Code since May 2021
-- Learn to build, make to sell
+- Working on MERN stack now
 - [See my career here](https://bit.ly/my_secret_box)
 
 # Stats
@@ -23,8 +23,8 @@
 |Importance|Subject|Since|Priority|
 |:--:|:-------------------:|:------------:|:---:|
 |Essential|React/Redux|Nov 2021|ongoing|
-|Essential|Node.js|Nov 2021|ongoing|
-|Basic|MySQL/MariaDB|Dec 2021|#1|
+|Essential|Node.js/Express|Nov 2021|ongoing|
+|Basic|MySQL/MariaDB/MongoDB|Dec 2021|#1|
 |Interest|Three JS, web AR/VR|2022|#2|
 |Interest|Solidity, NFT|2022|#3|
 |Essential|Typescript|2022|?|
