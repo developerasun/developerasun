@@ -24,14 +24,12 @@
 |:--:|:-------------------:|:------------:|:---:|
 |Essential|React/Redux|Nov 2021|ongoing|
 |Essential|Node.js/Express|Nov 2021|ongoing|
-|Basic|MySQL/MariaDB/MongoDB|Dec 2021|#1|
-|Interest|Three JS, web AR/VR|2022|#2|
-|Interest|Solidity, NFT|2022|#3|
-|Essential|Typescript|2022|?|
-|Basic|MongoDB(No-SQL)|2022|?|
-|Interest|GAN|2022|?|
-|Interest|Unity, 2D/3D game|?|
-|Interest|IOS, Swift|?|
+|Essential|MongoDB|Dec 2021|ongoing|
+|Interest|Three JS|2022|#1|
+|Essential|Typescript|2022|#2|
+|Interest|Solidity|2022|#3|
+|Interest|Unity|?|
+|Interest|Swift|?|
 |Interest|Docker, AWS|?|
 
 # Contact
