@@ -15,7 +15,7 @@
  # About Me
 |Career|Contact|
 |:-----:|:------:|
-|[See my career here](https://bit.ly/my_code_box)|[![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)|
+|[See my career here](https://bit.ly/hello_visitor)|[![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)|
   
 </div>
 
