@@ -1,6 +1,7 @@
 <div align="center">
  
-# Kick my ass everyday to be better
+# Best practice oriented.
+![my-kind-of-humor](https://user-images.githubusercontent.com/83855174/151166294-88a0106c-3ead-475b-80d4-fba01c9be5b4.png)
 
   
  # Stack
