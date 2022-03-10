@@ -34,9 +34,6 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cff13d30-a0b0-4e6a-8f25-0c5bbc743349.png" width=500px height=400px/></a>
   
 ## About Me
-Best practice oriented.
-![my-kind-of-humor](https://user-images.githubusercontent.com/83855174/151166294-88a0106c-3ead-475b-80d4-fba01c9be5b4.png)
- 
 |Career|Contact|
 |:-----:|:------:|
 |[See my career here](https://bit.ly/hello_visitor)|[![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)|
