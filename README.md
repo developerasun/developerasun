@@ -28,6 +28,7 @@
 |Working on|
 |:--------:|
 ![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black) 
+ ![Flutter](https://img.shields.io/badge/Flutter-white?style=square&logo=Flutter&logoColor=black) ![Dart](https://img.shields.io/badge/dart-white?style=square&logo=dart&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-black?style=square&logo=Python&logoColor=white) ![Go](https://img.shields.io/badge/Go-black?style=square&logo=Go&logoColor=white)
 
 ## Stat
