@@ -1,6 +1,14 @@
+ # Five things I firmly believe
+ 
+1. Programming is a tool to create something. Not for bullshit coding test.
+1. Consumers don't care how complicated and sophisticated your project architecture is.
+1. You can't "master" Javascript. or Java. or C. or Go. or Python or Ruby. even HTML.
+1. Programming is not for everybody. The thought that everyone can become software engineer once they finish 3 month bootcamp is laughable.
+1. You need a team to create a great software. You can't do it alone.
+
 <div align="left">
 
- # Stack
+ ## Stack
  
  |Language|
  |:------:|
