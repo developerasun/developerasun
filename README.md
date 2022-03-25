@@ -1,10 +1,10 @@
  # Five things I firmly believe
  
-1. Programming is a tool to create something. Not for bullshit coding test.
-1. Consumers don't care how complicated and sophisticated your project architecture is.
+1. You can't tell if he or she is a good engineer by coding test.
+1. Consumers don't care how elegant architecture your project has.
 1. You can't "master" Javascript. or Java. or C. or Go. or Python or Ruby. even HTML.
-1. Programming is not for everybody. The thought that everyone can become software engineer once they finish 3 month bootcamp is laughable.
-1. You need a team to create a great software. You can't do it alone.
+1. Programming is not meant for everybody.
+1. You should be good at making a software, not for coding.
 
 <div align="left">
 
@@ -43,6 +43,8 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cff13d30-a0b0-4e6a-8f25-0c5bbc743349.png" width=500px height=400px/></a>
   
 ## About Me
+Note that below website is legacy. New one on the way.
+ 
 |Career|Contact|
 |:-----:|:------:|
 |[See my career here](https://bit.ly/hello_visitor)|[![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)|
