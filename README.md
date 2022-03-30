@@ -1,10 +1,10 @@
  # Five things I firmly believe
  
-1. You can't tell if he or she is a good engineer by coding test.
-1. Consumers don't care how elegant architecture your project has.
-1. You can't "master" Javascript. or Java. or C. or Go. or Python or Ruby. even HTML.
-1. Programming is not meant for everybody.
-1. You should be good at making a software, not for coding.
+1. **Project experience** > coding test
+1. **Consumers** > architecture
+1. **Business impact** > flawless algorithm
+1. **Developer** > coder
+1. **Searching** > memorization
 
 <div align="left">
 
