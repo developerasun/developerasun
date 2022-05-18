@@ -1,18 +1,10 @@
-## Lifestyle without burnout
+## Who
 
-1. Sleep at least 7hours a day.
-1. Stop coding after 8pm.
-1. Do coding maxmium 8 hours(as of Wakatime)
-1. Rest at weekend. Visit Cat cafe nearby. 
-1. Do weight training three times per week.
+Jake Sung, DeveloperAsun
 
-## Rule of thumbs
- 
-1. **Project experience** > coding test
-1. **Consumers** > architecture
-1. **Business impact** > flawless algorithm
-1. **Developer** > coder
-1. **Searching** > memorization
+## What
+
+Junior blockchain developer
 
 <div align="left">
 
@@ -39,17 +31,18 @@
 |:--------:|
 ![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  ![NestJs](https://img.shields.io/badge/nestjs-white?style=square&logo=nestjs&logoColor=black)
 
-## Stat
- 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cff13d30-a0b0-4e6a-8f25-0c5bbc743349.png" width=500px height=400px/></a>
-  
-## About Me
- 
-Note that below website is legacy. New one on the way.
- 
-|Career|Contact|
-|:-----:|:------:|
-|[See my career here](https://bit.ly/hello_visitor)|[![Gmail Badge](https://img.shields.io/badge/Gmail-F05032?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nellow1102@gmail.com)](mailto:nellow1102@gmail.com)|
+ ## Rules
+
+1. Sleep at least 7hours a day.
+1. Stop coding after 8pm.
+1. Do coding maxmium 8 hours(as of Wakatime)
+1. Rest at weekend. Visit Cat cafe nearby. 
+1. Do weight training three times per week.
+3. **Project experience** > coding test
+4. **Consumers** > architecture
+5. **Business impact** > flawless algorithm
+6. **Developer** > coder
+7. **Searching** > memorization
   
 </div>
 
