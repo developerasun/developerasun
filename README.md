@@ -1,14 +1,12 @@
-## Who
+## :computer: Identity
 
-Jake Sung, DeveloperAsun
-
-## What
-
-Junior blockchain developer
+**Blockchain developer at [Ironflag](https://ironflag.io/)** <br/>
+Side projects: [PawCon](https://github.com/developerasun/pawcon), [MeowRun](https://github.com/DaeguDev/MeowRun) <br/>
+Contact: nellow1102@gmail.com
 
 <div align="left">
 
- ## Stack
+ ## :crossed_swords:	Stack
  
  |Language|
  |:------:|
@@ -30,20 +28,7 @@ Junior blockchain developer
 |Working on|
 |:--------:|
 ![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  ![NestJs](https://img.shields.io/badge/nestjs-white?style=square&logo=nestjs&logoColor=black)
-
- ## Rules
-
-1. Sleep at least 7hours a day.
-1. Stop coding after 8pm.
-1. Do coding maxmium 8 hours(as of Wakatime)
-1. Rest at weekend. Visit Cat cafe nearby. 
-1. Do weight training three times per week.
-3. **Project experience** > coding test
-4. **Consumers** > architecture
-5. **Business impact** > flawless algorithm
-6. **Developer** > coder
-7. **Searching** > memorization
-  
+ 
 </div>
 
   
