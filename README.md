@@ -4,6 +4,9 @@
 Side projects: [PawCon](https://github.com/developerasun/pawcon), [MeowRun](https://github.com/DaeguDev/MeowRun) <br/>
 Contact: nellow1102@gmail.com
 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cef09160-4388-4654-b701-d5ecb4733504.png" width="600" height="400" alt="wakatime coding activity" /></a>
+
 <div align="left">
 
  ## :crossed_swords:	Stack
