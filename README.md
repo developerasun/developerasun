@@ -1,17 +1,26 @@
-## :computer: Identity
 
-**Blockchain developer at [Ironflag](https://ironflag.io/)** <br/>
+<details>
+ <summary>:computer: Identity</summary>
+ 
+ **Blockchain developer at [Ironflag](https://ironflag.io/)** <br/>
 Side projects: [PawCon](https://github.com/developerasun/pawcon), [MeowRun](https://github.com/DaeguDev/MeowRun) <br/>
 Contact: nellow1102@gmail.com
+</details>
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cef09160-4388-4654-b701-d5ecb4733504.png" width="600" height="400" alt="wakatime coding activity" /></a>
-
-<div align="left">
-
- ## :crossed_swords:	Stack
+<details>
+ <summary>:bar_chart:	Stats</summary>
  
- |Language|
+![DeveloperAsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerasun&show_icons=true&theme=dracula)
+
+ 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@developerasun/cef09160-4388-4654-b701-d5ecb4733504.png" width="600" height="400" alt="wakatime coding activity" /></a>
+</details>
+
+<details>
+ <summary>:crossed_swords:	Stack</summary>
+ 
+|Language|
  |:------:|
  ![Javascript](https://img.shields.io/badge/Javascript-black?style=square&logo=Javascript&logoColor=white)  ![Typescript](https://img.shields.io/badge/Typescript-white?style=square&logo=Typescript&logoColor=black)  ![C#](https://img.shields.io/badge/C%23-white?style=square&logo=C%23&logoColor=black)  ![Solidity](https://img.shields.io/badge/Solidity-white?style=square&logo=Solidity&logoColor=black)  
 
@@ -32,7 +41,4 @@ Contact: nellow1102@gmail.com
 |:--------:|
 ![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  ![NestJs](https://img.shields.io/badge/nestjs-white?style=square&logo=nestjs&logoColor=black)
  
-</div>
-
-  
-
+</details>
