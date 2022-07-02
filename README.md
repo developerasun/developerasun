@@ -4,6 +4,7 @@
  
  **Blockchain developer at [Ironflag](https://ironflag.io/)** <br/>
 Side projects: [PawCon](https://github.com/developerasun/pawcon), [MeowRun](https://github.com/DaeguDev/MeowRun) <br/>
+Tech blog: [Linkedin post](https://www.linkedin.com/in/jakesung/recent-activity/shares/) <br/>
 Contact: nellow1102@gmail.com
 </details>
 
@@ -35,10 +36,10 @@ Contact: nellow1102@gmail.com
  
 |Testing  |
 |:-------:|
-![Mocha](https://img.shields.io/badge/Mocha-white?style=square&logo=Mocha&logoColor=black)
+![Mocha](https://img.shields.io/badge/Mocha-white?style=square&logo=Mocha&logoColor=black) ![Chai](https://img.shields.io/badge/Chai-white?style=square&logo=Chai&logoColor=black) ![Ethersjs](https://img.shields.io/badge/Ethersjs-white?style=square&logo=Ethersjs&logoColor=black) ![Waffle](https://img.shields.io/badge/Waffle-white?style=square&logo=Waffle&logoColor=black)
 
 |Working on|
 |:--------:|
-![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  ![NestJs](https://img.shields.io/badge/nestjs-white?style=square&logo=nestjs&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  ![NestJs](https://img.shields.io/badge/Nestjs-white?style=square&logo=nestjs&logoColor=black)
  
 </details>
