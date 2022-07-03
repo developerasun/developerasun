@@ -8,6 +8,22 @@ Tech blog: [Linkedin post](https://www.linkedin.com/in/jakesung/recent-activity/
 Contact: nellow1102@gmail.com
 </details>
 
+<details>
+<summary>📖 Courses</summary>
+
+<br/>
+
+I publish and sell my cutting-edge blockchain development knowledges at payhip. 
+
+These courses will be very helpful for those who want to be a blockchain developer.
+
+They will contain tips and tricks I have earned and troubleshootings I have done.
+
+Course 1 (ENG): [test course 1](https://payhip.com/developerasun) <br/>
+Course 2 (KOR): [test course 1](https://payhip.com/developerasun)
+
+</details>
+
 
 <details>
  <summary>:bar_chart:	Stats</summary>
