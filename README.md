@@ -3,27 +3,10 @@
  <summary>:computer: Identity</summary>
  
  **Blockchain developer at [Ironflag](https://ironflag.io/)** <br/>
-Side projects: [PawCon](https://github.com/developerasun/pawcon), [MeowRun](https://github.com/DaeguDev/MeowRun) <br/>
+Side projects: [PawCon](https://github.com/asunlabs/pawcon-monorepo), [MeowRun](https://github.com/DaeguDev/MeowRun) <br/>
 Tech blog: [Linkedin post](https://www.linkedin.com/in/jakesung/recent-activity/shares/) <br/>
 Contact: nellow1102@gmail.com
 </details>
-
-<details>
-<summary>📖 Courses</summary>
-
-<br/>
-
-I publish and sell my cutting-edge blockchain development knowledges at payhip. 
-
-These courses will be very helpful for those who want to be a blockchain developer.
-
-They will contain tips and tricks I have earned and troubleshootings I have done.
-
-Course 1 (ENG): [test course 1](https://payhip.com/developerasun) <br/>
-Course 2 (KOR): [test course 1](https://payhip.com/developerasun)
-
-</details>
-
 
 <details>
  <summary>:bar_chart:	Stats</summary>
@@ -39,7 +22,7 @@ Course 2 (KOR): [test course 1](https://payhip.com/developerasun)
  
 |Language|
  |:------:|
- ![Javascript](https://img.shields.io/badge/Javascript-black?style=square&logo=Javascript&logoColor=white)  ![Typescript](https://img.shields.io/badge/Typescript-white?style=square&logo=Typescript&logoColor=black)  ![C#](https://img.shields.io/badge/C%23-white?style=square&logo=C%23&logoColor=black)  ![Solidity](https://img.shields.io/badge/Solidity-white?style=square&logo=Solidity&logoColor=black)  
+ ![Javascript](https://img.shields.io/badge/Javascript-black?style=square&logo=Javascript&logoColor=white)  ![Typescript](https://img.shields.io/badge/Typescript-white?style=square&logo=Typescript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-white?style=square&logo=Solidity&logoColor=black) ![C#](https://img.shields.io/badge/C%23-white?style=square&logo=C%23&logoColor=black)  
 
 |Front End|
 |:-------:|
@@ -52,10 +35,10 @@ Course 2 (KOR): [test course 1](https://payhip.com/developerasun)
  
 |Testing  |
 |:-------:|
-![Mocha](https://img.shields.io/badge/Mocha-white?style=square&logo=Mocha&logoColor=black) ![Chai](https://img.shields.io/badge/Chai-white?style=square&logo=Chai&logoColor=black) ![Ethersjs](https://img.shields.io/badge/Ethersjs-white?style=square&logo=Ethersjs&logoColor=black) ![Waffle](https://img.shields.io/badge/Waffle-white?style=square&logo=Waffle&logoColor=black)
+![Mocha](https://img.shields.io/badge/Mocha-white?style=square&logo=Mocha&logoColor=black) ![Chai](https://img.shields.io/badge/Chai-white?style=square&logo=Chai&logoColor=black) ![Ethersjs](https://img.shields.io/badge/Ethersjs-white?style=square&logo=Ethersjs&logoColor=black) ![Waffle](https://img.shields.io/badge/Waffle-white?style=square&logo=Waffle&logoColor=black) ![Smock](https://img.shields.io/badge/Smock-white?style=square&logo=Smock&logoColor=black)
 
 |Working on|
 |:--------:|
-![Rust](https://img.shields.io/badge/Rust-white?style=square&logo=Rust&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  ![NestJs](https://img.shields.io/badge/Nestjs-white?style=square&logo=nestjs&logoColor=black)
+![Go](https://img.shields.io/badge/Go-white?style=square&logo=go&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-white?style=square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-white?style=square&logo=Linux&logoColor=black)  
  
 </details>
