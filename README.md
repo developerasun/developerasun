@@ -4,4 +4,5 @@ Follow my tech posts on [Linkedin](https://www.linkedin.com/in/jakesung/recent-a
 
 🔊
 
-https://user-images.githubusercontent.com/83855174/186965777-ad83ce30-b9eb-492c-bcbe-699446b1d503.mp4
+https://user-images.githubusercontent.com/83855174/204136071-225a7012-17f4-420d-b9f8-5ba58f1e799d.mp4
+
