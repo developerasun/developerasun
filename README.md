@@ -2,13 +2,13 @@
 
 Sometimes, a few web3 teams launching cool projects reach out to me for different reasons.
 
-From job offer to testing to joining in a very early team member.
+From job offers to testing to joining in a very early team member.
 
 The best way to contact is my Gmail: nellow1102@gmail.com, which I regularly check. 
 
 Depending on the busyness or business at the moment(yes, pun I intended), I might not reply but felt grateful.
 
-Now, check my dev promo vid :) I think this promo vid shows my qualit and personality pretty well.
+Now, check my dev promo vid :) I think this promo vid shows my quality and personality pretty well.
 
 🔊
 
