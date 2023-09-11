@@ -12,4 +12,5 @@ Now, check my dev promo vid :) I think this promo vid shows my quality and perso
 
 🔊
 
-https://user-images.githubusercontent.com/83855174/215325843-b2438a00-f743-4476-9a8b-df123e3b0fb9.mp4
+https://github.com/developerasun/developerasun/assets/83855174/97a7ed42-ff37-4c47-9514-9d664fe61a54
+
