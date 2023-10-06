@@ -1,14 +1,13 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
-Sometimes, a few web3 teams launching cool projects reach out to me for different reasons.
+Look, mom, I'm everywhere!
 
-From job offers to testing to joining in a very early team member.
-
-The best way to contact is my Gmail: nellow1102@gmail.com, which I regularly check. 
-
-Depending on the busyness or business at the moment(yes, pun I intended), I might not reply but felt grateful.
-
-Now, check my dev promo vid :) I think this promo vid shows my quality and personality pretty well.
+[Wagmi](https://github.com/wagmi-dev/wagmi/issues/1948) <br/>
+[Openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades/issues/623) <br/>
+[Solhint](https://github.com/protofire/solhint/issues/354) <br/>
+[Hardhat](https://github.com/NomicFoundation/hardhat/issues/3385) <br/>
+[Nextjs](https://github.com/mtbrault/nextjs-http-supertest/issues/12) <br/>
+[Jest](https://stackoverflow.com/questions/69164606/jest-cannot-log-after-tests-are-done-having-problems-on-import-of-functions) <br/>
 
 🔊
 
