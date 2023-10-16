@@ -8,6 +8,7 @@ Look, mom, I'm everywhere!
 [Hardhat](https://github.com/NomicFoundation/hardhat/issues/3385) <br/>
 [Nextjs](https://github.com/mtbrault/nextjs-http-supertest/issues/12) <br/>
 [Jest](https://stackoverflow.com/questions/69164606/jest-cannot-log-after-tests-are-done-having-problems-on-import-of-functions) <br/>
+[Vercel](https://github.com/orgs/vercel/discussions/3150)
 
 🔊
 
