@@ -10,8 +10,8 @@ Look, mom, I'm everywhere!
 [Jest](https://stackoverflow.com/questions/69164606/jest-cannot-log-after-tests-are-done-having-problems-on-import-of-functions) <br/>
 [Supertest](https://github.com/mtbrault/nextjs-http-supertest/issues/12) <br/>
 [TypeORM](https://github.com/typeorm/typeorm/issues/2797#issuecomment-2341067527) <br/>
-[Pocketbase](https://github.com/pocketbase/pocketbase/issues/3903#issuecomment-2636337473)
-[Ssh actions](https://github.com/appleboy/ssh-action/issues/129)
+[Pocketbase](https://github.com/pocketbase/pocketbase/issues/3903#issuecomment-2636337473) <br/>
+[Ssh Actions](https://github.com/appleboy/ssh-action/issues/129)
 
 🔊
 
