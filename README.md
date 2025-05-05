@@ -1,17 +1,17 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
-Look, mom, I'm everywhere!
+People say two things which I considered not true. 
 
-[Wagmi](https://github.com/wagmi-dev/wagmi/issues/1948) <br/>
-[Openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades/issues/623) <br/>
-[Solhint](https://github.com/protofire/solhint/issues/354) <br/>
-[Hardhat](https://github.com/NomicFoundation/hardhat/issues/3385) <br/>
-[Nextjs](https://github.com/vercel/next.js/issues/49565) <br/>
-[Jest](https://stackoverflow.com/questions/69164606/jest-cannot-log-after-tests-are-done-having-problems-on-import-of-functions) <br/>
-[Supertest](https://github.com/mtbrault/nextjs-http-supertest/issues/12) <br/>
-[TypeORM](https://github.com/typeorm/typeorm/issues/2797#issuecomment-2341067527) <br/>
-[Pocketbase](https://github.com/pocketbase/pocketbase/issues/3903#issuecomment-2636337473) <br/>
-[Ssh Actions](https://github.com/appleboy/ssh-action/issues/129)
+First. Bitcoin is scam. I'm super dumb so please kindly explain to me then why the fuck it is 100K a coin.
+
+Second. AI will take programmers out of jobs.  Again, I'm super dumb so please patiently guide me why the fuck you haven't replace all the jobs with it already.
+
+First one is based on arrogance and second one is about exploiting FOMO.
+
+Outside arena, you can say whatever you want. Talk is cheap.
+
+Haven't asked your advice. I been following my instinct and knowledge and I will keep doing it.
+
 
 🔊
 
