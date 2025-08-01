@@ -1,22 +1,19 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
-<details>
+Throughout my work experiences, I found the following quite ironic:
 
-<summary>TMI</summary>
+<ul>
+  <li>An interviewer conducting a pressure interview — while their own team has zero sales.</li> <br />
+  <li>An engineer designing a full-scale architecture — for a service with under 1,000 DAU.</li> <br />
+  <li>An HR manager looking for a “perfect” developer — while offering low pay and full responsibility.</li> <br />
+  <li>A product owner crafting seamless Figma pages all day — without ever defining the user’s pain points.</li> <br />
+  <li>A CEO giving passionate speeches about the company vision — while never talking to employees face to face.</li> 
+</ul>
+If you want someone to live up to your expectations, you should do the same.
 
-I love [Trickcal:Revive](https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive) and I'm proud of it.
+Be realistic, brother.
 
-The game really helped me to get through lonely and cold times in Seoul.
-
-![1](https://github.com/user-attachments/assets/4b4782a4-708f-4c28-bf02-1bb33838bda9)
-
-If you call me Otaku for that, so be it.
-
-</details>
-
-
-
-Outside arena, you can say whatever you want. Talk is cheap.
+<br />
 
 🔊
 
