@@ -4,12 +4,8 @@ import BITHUMB_API_RESPONSE from "./bithumb-api.json" with { type: "json" };
 dotenv.config();
 
 (async () => {
-  const token = process.env.BEARER_TOKEN;
   const endpoint = `${process.env.WEBHOOK_ENDPOINT}`;
-
-  if (!token)
-    throw new Error("scheduling/src/cryptocurrency.ts: invalid api key");
-
+  
   if (!endpoint)
     throw new Error(
       "scheduling/src/cryptocurrency.ts: invalid webhook endpoint"
