@@ -18,8 +18,14 @@ export class Summary {
     "사는 가격": string;
     "파는 가격": string;
   } | null;
-  "1달러": string | null;
-  상장지수펀드: {
+  "달러 환율": string | null;
+  "S&P500": {
+    날짜: string;
+    "장전 가격": string;
+    "정규장 가격": string;
+    "장후 가격": string;
+  } | null;
+  "Nasdaq100": {
     날짜: string;
     "장전 가격": string;
     "정규장 가격": string;
@@ -30,8 +36,9 @@ export class Summary {
     this.비트코인 = null;
     this.이더리움 = null;
     this.금 = null;
-    this["1달러"] = null;
-    this.상장지수펀드 = null;
+    this["달러 환율"] = null;
+    this["S&P500"] = null;
+    this["Nasdaq100"] = null;
   }
 
   setCryptoBtc(detail: {
@@ -54,18 +61,28 @@ export class Summary {
     return this;
   }
 
-  setEtf(detail: {
+  setSnP500(detail: {
     날짜: string;
     "장전 가격": string;
     "정규장 가격": string;
     "장후 가격": string;
   }) {
-    this.상장지수펀드 = detail;
+    this["S&P500"] = detail;
+    return this;
+  }
+
+  setNasdaq100(detail: {
+    날짜: string;
+    "장전 가격": string;
+    "정규장 가격": string;
+    "장후 가격": string;
+  }) {
+    this["Nasdaq100"] = detail;
     return this;
   }
 
   setDollar(detail: string) {
-    this["1달러"] = detail;
+    this["달러 환율"] = detail;
     return this;
   }
 

@@ -36,7 +36,12 @@ dotenv.config();
         json() {
           return yahooFinance.quoteSummary("VOO")
         }
-      }) 
+      }),
+      Promise.resolve({
+        json() {
+          return yahooFinance.quoteSummary("QQQ")
+        }
+      }),
     ]);
     
     const resolved = result
@@ -68,9 +73,15 @@ dotenv.config();
         sm.setDollar(dollar.country[1].subValue)
 
       } else if (isEftApi) {
-        const voo = b as typeof YAHOO_API_RESPONSE
-        const { regularMarketTime: date, regularMarketPreviousClose: prev, regularMarketPrice: current, postMarketPrice: after } = voo.price
-        sm.setEtf({ 
+        const etf = b as typeof YAHOO_API_RESPONSE
+        const { regularMarketTime: date, regularMarketPreviousClose: prev, regularMarketPrice: current, postMarketPrice: after, symbol } = etf.price
+        symbol === "QQQ" ? 
+        sm.setNasdaq100({ 
+          "날짜": date, 
+          "장전 가격": sm.toDollar(prev), 
+          "정규장 가격": sm.toDollar(current), 
+          "장후 가격": sm.toDollar(after)
+        }) : sm.setSnP500({ 
           "날짜": date, 
           "장전 가격": sm.toDollar(prev), 
           "정규장 가격": sm.toDollar(current), 
