@@ -10,12 +10,6 @@ export default defineConfig({
     {
       text: "About",
       link: "/about",
-      items: [
-        {
-          text: "Blog",
-          link: "/blog",
-        },
-      ],
     },
 
     {
@@ -45,6 +39,10 @@ export default defineConfig({
           link: "/portfolio/nirvana",
         },
       ],
+    },
+    {
+      text: "Blog",
+      link: "/blog",
     },
   ],
   theme: {
