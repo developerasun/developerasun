@@ -36,6 +36,14 @@ export default defineConfig({
           text: "Ricktcal Worldcup",
           link: "/portfolio/ricktcal-worldcup",
         },
+        {
+          text: "Mantra",
+          link: "/portfolio/mantra",
+        },
+        {
+          text: "Nirvana",
+          link: "/portfolio/nirvana",
+        },
       ],
     },
   ],
