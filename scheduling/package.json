@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "action:dev": "node --experimental-strip-types ./src/cryptocurrency.ts"
+    "action:dev": "node --experimental-strip-types ./src/cryptocurrency.ts",
+    "action:dev2": "node --experimental-strip-types ./src/real-estate.ts"
   },
   "keywords": [],
   "author": "",
