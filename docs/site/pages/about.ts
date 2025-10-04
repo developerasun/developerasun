@@ -1,0 +1,14 @@
+export { PROMOTION_VIDEOS };
+
+const PROMOTION_VIDEOS = {
+  "v0.1.0":
+    "https://user-images.githubusercontent.com/83855174/186965777-ad83ce30-b9eb-492c-bcbe-699446b1d503.mp4",
+  "v0.2.0":
+    "https://user-images.githubusercontent.com/83855174/204136071-225a7012-17f4-420d-b9f8-5ba58f1e799d.mp4",
+  "v0.3.0":
+    "https://user-images.githubusercontent.com/83855174/215325843-b2438a00-f743-4476-9a8b-df123e3b0fb9.mp4",
+  "v0.4.0":
+    "https://github.com/developerasun/developerasun/assets/83855174/97a7ed42-ff37-4c47-9514-9d664fe61a54",
+  "v0.5.0":
+    "https://github.com/user-attachments/assets/46b7381d-09ea-4dbd-8c09-2dacc168c946",
+} as const;
