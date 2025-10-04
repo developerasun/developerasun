@@ -5,7 +5,7 @@
 # Node modules
 /node_modules/
 docs/node_modules
-docs/dist
+site/dist
 
 # Logs
 /logs/
