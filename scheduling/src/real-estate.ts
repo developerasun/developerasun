@@ -1,10 +1,5 @@
 import dotenv from "dotenv";
-
 dotenv.config();
-
-const endpoint = `${process.env.WEBHOOK_ENDPOINT}`;
-if (!endpoint)
-  throw new Error("scheduling/src/real-estate.ts: invalid webhook endpoint");
 
 // ================================================================== //
 // ======================= ai-generated:start ======================= //
@@ -77,7 +72,6 @@ async function fetchSeoulAndDaeguPriceIndex() {
     return { 서울_최근한달: [], 대구_최근한달: [] };
   }
 }
-
 // ================================================================== //
 // ======================== ai-generated:end ======================== //
 // ================================================================== //
@@ -95,39 +89,48 @@ interface IPriceIndexField {
 type PriceIndexFieldList = IPriceIndexField[];
 
 (async () => {
-  const { 서울_최근한달, 대구_최근한달 } =
-    (await fetchSeoulAndDaeguPriceIndex()) as {
-      서울_최근한달: PriceIndexFieldList;
-      대구_최근한달: PriceIndexFieldList;
-    };
+  const endpoint = `${process.env.WEBHOOK_ENDPOINT}`;
 
-  // @dev filter and order by desc. discord has 2,000 char limit on webhook contents
-  const 서울_거래활발_상위 = 서울_최근한달
-    .sort((a, b) => b.가격지수 - a.가격지수)
-    .slice(0, 5);
-  const 대구_거래활발_상위 = 대구_최근한달
-    .sort((a, b) => b.가격지수 - a.가격지수)
-    .slice(0, 5);
+  if (!endpoint)
+    throw new Error("scheduling/src/real-estate.ts: invalid webhook endpoint");
 
-  console.log({ 서울_거래활발_상위, 대구_거래활발_상위 });
+  try {
+    const { 서울_최근한달, 대구_최근한달 } =
+      (await fetchSeoulAndDaeguPriceIndex()) as {
+        서울_최근한달: PriceIndexFieldList;
+        대구_최근한달: PriceIndexFieldList;
+      };
 
-  const content = JSON.stringify(
-    {
-      서울_거래활발_상위,
-      대구_거래활발_상위,
-    },
-    null,
-    2
-  );
-  const response = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-    },
-    body: JSON.stringify({ content }),
-  });
+    // @dev filter and order by desc. discord has 2,000 char limit on webhook contents
+    const 서울_거래활발_상위 = 서울_최근한달
+      .sort((a, b) => b.가격지수 - a.가격지수)
+      .slice(0, 5);
+    const 대구_거래활발_상위 = 대구_최근한달
+      .sort((a, b) => b.가격지수 - a.가격지수)
+      .slice(0, 5);
 
-  // no body from discord
-  const { status, statusText } = response;
-  console.info({ status, statusText });
+    console.log({ 서울_거래활발_상위, 대구_거래활발_상위 });
+
+    const content = JSON.stringify(
+      {
+        서울_거래활발_상위,
+        대구_거래활발_상위,
+      },
+      null,
+      2
+    );
+    const response = await fetch(endpoint, {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({ content }),
+    });
+
+    // no body from discord
+    const { status, statusText } = response;
+    console.info({ status, statusText });
+  } catch (error) {
+    console.error(error);
+  }
 })();
