@@ -4,7 +4,7 @@ dotenv.config();
 
 const endpoint = `${process.env.WEBHOOK_ENDPOINT}`;
 if (!endpoint)
-  throw new Error("scheduling/src/cryptocurrency.ts: invalid webhook endpoint");
+  throw new Error("scheduling/src/real-estate.ts: invalid webhook endpoint");
 
 // ================================================================== //
 // ======================= ai-generated:start ======================= //

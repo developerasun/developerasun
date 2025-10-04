@@ -21,7 +21,7 @@ jobs:
           cd scheduling
           npm install
 
-      - name: Inspect daily asset prices
+      - name: Inspect monthly asset prices
         env:
           WEBHOOK_ENDPOINT: ${{ secrets.WEBHOOK_ENDPOINT }}
         run: cd scheduling && node --experimental-strip-types ./src/real-estate.ts
