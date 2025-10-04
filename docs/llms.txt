@@ -2,10 +2,12 @@
 
 ## Docs
 
-- [About](/developerasun/about): TBD
+- [About](/developerasun/about): People changes as time goes by.
 - [Portfolio](/developerasun/portfolio): TBD
 - [Projects](/developerasun/projects)
 - [Blog](/developerasun/blog)
-- [My First Post](/developerasun/blog/my-first-post): Hello everyone, this is my first post!
-- [Ricktcal Worldcup](/developerasun/portfolio/ricktcal-worldcup): TBD
-- [Lapis Protocol](/developerasun/projects/lapis-protocol): TBD
+- [Blog | My First Post](/developerasun/blog/my-first-post): Hello everyone, this is my first post!
+- [Portfolio | Mantra](/developerasun/portfolio/mantra): TBD
+- [Portfolio | Nirvana](/developerasun/portfolio/nirvana): TBD
+- [Portfolio | Ricktcal Worldcup](/developerasun/portfolio/ricktcal-worldcup): TBD
+- [Projects | Lapis Protocol](/developerasun/projects/lapis-protocol): TBD

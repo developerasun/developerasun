@@ -10,12 +10,6 @@ export default defineConfig({
     {
       text: "About",
       link: "/about",
-      items: [
-        {
-          text: "Blog",
-          link: "/blog",
-        },
-      ],
     },
 
     {
@@ -36,7 +30,19 @@ export default defineConfig({
           text: "Ricktcal Worldcup",
           link: "/portfolio/ricktcal-worldcup",
         },
+        {
+          text: "Mantra",
+          link: "/portfolio/mantra",
+        },
+        {
+          text: "Nirvana",
+          link: "/portfolio/nirvana",
+        },
       ],
+    },
+    {
+      text: "Blog",
+      link: "/blog",
     },
   ],
   theme: {
