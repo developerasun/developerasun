@@ -1,4 +1,4 @@
-import{u as s,j as e}from"./index-Bi9O2lK2.js";const o={title:"Projects | Lapis Protocol",description:"undefined"};function n(i){const t={a:"a",div:"div",h1:"h1",header:"header",li:"li",p:"p",ul:"ul",...s(),...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.header,{children:e.jsxs(t.h1,{id:"projects--lapis-protocol",children:["Projects | Lapis Protocol",e.jsx(t.a,{"aria-hidden":"true",tabIndex:"-1",href:"#projects--lapis-protocol",children:e.jsx(t.div,{"data-autolink-icon":!0})})]})}),`
+import{u as s,j as e}from"./index-B9z33d19.js";const o={title:"Projects | Lapis Protocol",description:"undefined"};function n(i){const t={a:"a",div:"div",h1:"h1",header:"header",li:"li",p:"p",ul:"ul",...s(),...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(t.header,{children:e.jsxs(t.h1,{id:"projects--lapis-protocol",children:["Projects | Lapis Protocol",e.jsx(t.a,{"aria-hidden":"true",tabIndex:"-1",href:"#projects--lapis-protocol",children:e.jsx(t.div,{"data-autolink-icon":!0})})]})}),`
 `,e.jsx(t.p,{children:"Play to earn Android app, made with teammates:"}),`
 `,e.jsxs(t.ul,{children:[`
 `,e.jsx(t.li,{children:"tech: 2 mobile, 2 backend, 1 blockchain(me)"}),`

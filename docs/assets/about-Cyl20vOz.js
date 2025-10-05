@@ -1,4 +1,4 @@
-import{u as n,j as e}from"./index-Bi9O2lK2.js";import{PROMOTION_VIDEOS as s}from"./about-CqFxbrOw.js";const c={title:"About",description:"undefined"};function t(i){const r={a:"a",code:"code",div:"div",h1:"h1",h2:"h2",h3:"h3",header:"header",p:"p",...n(),...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(r.header,{children:e.jsxs(r.h1,{id:"about",children:["About",e.jsx(r.a,{"aria-hidden":"true",tabIndex:"-1",href:"#about",children:e.jsx(r.div,{"data-autolink-icon":!0})})]})}),`
+import{u as n,j as e}from"./index-B9z33d19.js";import{PROMOTION_VIDEOS as s}from"./about-CqFxbrOw.js";const c={title:"About",description:"undefined"};function t(i){const r={a:"a",code:"code",div:"div",h1:"h1",h2:"h2",h3:"h3",header:"header",p:"p",...n(),...i.components};return e.jsxs(e.Fragment,{children:[e.jsx(r.header,{children:e.jsxs(r.h1,{id:"about",children:["About",e.jsx(r.a,{"aria-hidden":"true",tabIndex:"-1",href:"#about",children:e.jsx(r.div,{"data-autolink-icon":!0})})]})}),`
 `,e.jsx(r.p,{children:"People changes as time goes by."}),`
 `,e.jsx(r.p,{children:"So do I."}),`
 `,e.jsx(r.p,{children:"Watch a list of recent footages of developerasun."}),`
