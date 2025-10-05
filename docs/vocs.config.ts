@@ -1,7 +1,7 @@
 import { defineConfig } from "vocs";
 
 export default defineConfig({
-  title: "DeveloperAsun",
+  title: "Profile | Jake Sung",
   // @dev should be set to repo name for github pages
   basePath: "/developerasun",
   iconUrl: { light: "/favicon.ico", dark: "/favicon.ico" },
@@ -37,6 +37,20 @@ export default defineConfig({
         {
           text: "Nirvana",
           link: "/portfolio/nirvana",
+        },
+      ],
+    },
+    {
+      text: "Work With Me",
+      link: "/work-with-me",
+      items: [
+        {
+          text: "Coffee Chat",
+          link: "/work-with-me/coffee-chat",
+        },
+        {
+          text: "Freelance",
+          link: "/work-with-me/freelance",
         },
       ],
     },
