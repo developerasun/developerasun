@@ -3,11 +3,14 @@ layout: landing
 ---
 
 import { HomePage } from "vocs/components";
+import { PUB_DIR_PATH } from "./index";
 
 <HomePage.Root>
   <HomePage.Logo />
   <HomePage.Tagline>Software Engineer since 2022</HomePage.Tagline>
-  <div style={{ width: "50%" }}>![logo](/logo.jpg "Logo")</div>
+  <div style={{ width: "50%" }}>
+    <img src={`${PUB_DIR_PATH}`+ "logo.jpg"} alt="logo"/>
+  </div>
 <HomePage.Description>
   This is a profile page of Jake Sung, <br /> listing out his what and why.
 </HomePage.Description>

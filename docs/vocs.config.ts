@@ -1,14 +1,11 @@
 import { defineConfig } from "vocs";
 
 export default defineConfig({
-  title: "Profile | Jake Sung",
+  title: "Jake Sung",
   // @dev should be set to repo name for github pages
   basePath: "/developerasun",
   iconUrl: { light: "/favicon.ico", dark: "/favicon.ico" },
   rootDir: "./site",
-  vite: {
-    base: "/developerasun",
-  },
   sidebar: [
     {
       text: "About",
