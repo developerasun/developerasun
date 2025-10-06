@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vocs dev",
-    "build": "vocs build && rm -rf ./assets && rsync -a ./site/dist/ ../docs/",
-    "build:action": "vocs build",
+    "build": "vocs build && rsync -a ./site/public ./site/dist/",
     "preview": "vocs preview",
     "v:patch": "pnpm version patch",
     "v:minor": "pnpm version minor",
