@@ -35,6 +35,10 @@ export default defineConfig({
           link: "/portfolio/mantra",
         },
         {
+          text: "Hexbook",
+          link: "/portfolio/hexbook",
+        },
+        {
           text: "Nirvana",
           link: "/portfolio/nirvana",
         },
