@@ -89,10 +89,12 @@ interface IPriceIndexField {
 type PriceIndexFieldList = IPriceIndexField[];
 
 (async () => {
-  const endpoint = `${process.env.WEBHOOK_ENDPOINT}`;
+  const endpoint = `${process.env.DISCORD_PROPERTY_ASSET_INDEX}`;
 
   if (!endpoint)
-    throw new Error("scheduling/src/real-estate.ts: invalid webhook endpoint");
+    throw new Error(
+      "scheduling/src/real-estate.ts: invalid DISCORD_PROPERTY_ASSET_INDEX"
+    );
 
   try {
     const { 서울_최근한달, 대구_최근한달 } =

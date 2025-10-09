@@ -9,11 +9,11 @@ import { Summary } from "../types/snippet.ts";
 dotenv.config();
 
 (async () => {
-  const endpoint = `${process.env.WEBHOOK_ENDPOINT}`;
+  const endpoint = `${process.env.DISCORD_FINANCIAL_ASSET_INDEX}`;
   
   if (!endpoint)
     throw new Error(
-      "scheduling/src/cryptocurrency.ts: invalid webhook endpoint"
+      "scheduling/src/cryptocurrency.ts: invalid DISCORD_FINANCIAL_ASSET_INDEX"
     );
 
   try {
