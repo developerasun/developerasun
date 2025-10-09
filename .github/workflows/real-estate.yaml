@@ -23,5 +23,5 @@ jobs:
 
       - name: Inspect monthly asset prices
         env:
-          WEBHOOK_ENDPOINT: ${{ secrets.WEBHOOK_ENDPOINT }}
+          DISCORD_PROPERTY_ASSET_INDEX: ${{ secrets.DISCORD_PROPERTY_ASSET_INDEX }}
         run: cd scheduling && node --experimental-strip-types ./src/real-estate.ts
