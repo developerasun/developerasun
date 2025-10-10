@@ -19,6 +19,7 @@ export class Summary {
     "파는 가격": string;
   } | null;
   "달러 환율": string | null;
+  "스테이블 환율": string | null;
   "S&P500": {
     날짜: string;
     "장전 가격": string;
@@ -83,6 +84,11 @@ export class Summary {
 
   setDollar(detail: string) {
     this["달러 환율"] = detail;
+    return this;
+  }
+
+  setStableDollar(detail: string) {
+    this["스테이블 환율"] = detail;
     return this;
   }
 

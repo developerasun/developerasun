@@ -20,6 +20,7 @@ dotenv.config();
     const result = await Promise.allSettled([
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-BTC"),
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-ETH"),
+      fetch("https://api.bithumb.com/v1/ticker?markets=KRW-USDT"),
       fetch("https://apiserver.koreagoldx.co.kr/api/price/lineUp/list", {
         method: "POST",
         headers: {"Content-Type": "application/json"},
@@ -90,13 +91,20 @@ dotenv.config();
       } else {
         const coin = b as typeof BITHUMB_API_RESPONSE
         const { trade_date_kst: date, opening_price: start, highest_52_week_price: yearHigh, lowest_52_week_price: yearLow} = coin[0]
-        const market = coin[0].market.includes("BTC") ? "비트코인" : "이더리움"
+        const market = 
+          coin[0].market.includes("BTC") ? "비트코인" : 
+          coin[0].market.includes("USDT") ? "스테이블" :
+                                             "이더리움"
+
         market === "비트코인" ? sm.setCryptoBtc({ 
           "날짜": date, 
           "시작가": sm.toWon(start), 
           "1년내 최고가": sm.toWon(yearHigh) , 
           "1년내 최저가": sm.toWon(yearLow)
-        }) : sm.setCryptoEth({ 
+        }) 
+        : market === "스테이블" ? 
+        sm.setStableDollar(`${start.toString()}원`) 
+        : sm.setCryptoEth({ 
           "날짜": date, 
           "시작가": sm.toWon(start), 
           "1년내 최고가": sm.toWon(yearHigh) , 
