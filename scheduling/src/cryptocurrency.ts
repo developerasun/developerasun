@@ -36,13 +36,13 @@ dotenv.config();
       Promise.resolve({
         ok: true,
         json() {
-          return yahooFinance.quoteSummary("VOO")
+          return yahooFinance.quote("VOO")
         }
       }),
       Promise.resolve({
         ok: true,
         json() {
-          return yahooFinance.quoteSummary("QQQ")
+          return yahooFinance.quote("QQQ")
         }
       }),
     ]);
@@ -62,7 +62,7 @@ dotenv.config();
       let b = body as unknown as typeof BITHUMB_API_RESPONSE | typeof KOREA_GOLDX_API_RESPONSE | typeof NAVER_API_RESPONSE | typeof YAHOO_API_RESPONSE;
       const isGoldApi = Object.prototype.hasOwnProperty.call(body, "lineUpVal")
       const isDollarApi = Object.prototype.hasOwnProperty.call(body, "pkid")
-      const isEftApi = Object.prototype.hasOwnProperty.call(body, "summaryDetail")
+      const isEftApi = Object.prototype.hasOwnProperty.call(body, "fullExchangeName")
 
       if (isGoldApi) {
         const gold = b as typeof KOREA_GOLDX_API_RESPONSE
@@ -80,7 +80,7 @@ dotenv.config();
 
       } else if (isEftApi) {
         const etf = b as typeof YAHOO_API_RESPONSE
-        const { regularMarketTime: date, regularMarketPreviousClose: prev, regularMarketPrice: current, postMarketPrice: after, symbol } = etf.price
+        const { regularMarketTime: date, regularMarketPreviousClose: prev, regularMarketPrice: current, postMarketPrice: after, symbol } = etf
         symbol === "QQQ" ? 
         sm.setNasdaq100({ 
           "날짜": date, 
