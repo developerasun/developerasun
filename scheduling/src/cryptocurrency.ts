@@ -49,9 +49,17 @@ dotenv.config();
       .filter(
         (r): r is PromiseFulfilledResult<Response> => r.status === "fulfilled"
       )
-      .map((r) => r.value.json());
-    
-      const sm = new Summary()
+      // @dev filter and split plain http ok response from yahoo finanace, which just returns an object
+      .map((r) => {
+        if (r.value.url) {
+          if (r.value.ok) return r.value.json()
+        } else {
+          return r.value.json()
+        }
+      })
+      .filter((r) => r !== undefined)
+
+    const sm = new Summary()
      
     for await (const body of resolved) {
       let b = body as unknown as typeof BITHUMB_API_RESPONSE | typeof KOREA_GOLDX_API_RESPONSE | typeof NAVER_API_RESPONSE | typeof YAHOO_API_RESPONSE;
