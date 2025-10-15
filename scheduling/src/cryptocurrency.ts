@@ -34,11 +34,13 @@ dotenv.config();
 
       // @dev wrap to make it fetch-response-like
       Promise.resolve({
+        ok: true,
         json() {
           return yahooFinance.quoteSummary("VOO")
         }
       }),
       Promise.resolve({
+        ok: true,
         json() {
           return yahooFinance.quoteSummary("QQQ")
         }
@@ -50,15 +52,10 @@ dotenv.config();
         (r): r is PromiseFulfilledResult<Response> => r.status === "fulfilled"
       )
       // @dev filter and split plain http ok response from yahoo finanace, which just returns an object
-      .map((r) => {
-        if (r.value.url) {
-          if (r.value.ok) return r.value.json()
-        } else {
-          return r.value.json()
-        }
-      })
-      .filter((r) => r !== undefined)
+      .filter((r) => r.value.ok)
+      .map((r) => r.value.json())
 
+    console.log({resolved})
     const sm = new Summary()
      
     for await (const body of resolved) {
