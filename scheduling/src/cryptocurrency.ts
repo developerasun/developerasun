@@ -17,34 +17,41 @@ dotenv.config();
     );
 
   try {
+    const isYahooFinanceApiWorkingInGithubAction = await yahooFinance.quoteSummary("VOO")
+    console.log({isYahooFinanceApiWorkingInGithubAction})
+  } catch (error) {
+    console.error((error))
+  }
+
+  try {
     const result = await Promise.allSettled([
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-BTC"),
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-ETH"),
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-USDT"),
-      // fetch("https://apiserver.koreagoldx.co.kr/api/price/lineUp/list", {
-      //   method: "POST",
-      //   headers: {"Content-Type": "application/json"},
-      //   body: JSON.stringify({
-      //     srchDt: "5M",
-      //     type: "Au",
-      //     dataDateStart: "",
-      //     dataDateEnd: ""})
-      //   }),
+      fetch("https://apiserver.koreagoldx.co.kr/api/price/lineUp/list", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({
+          srchDt: "5M",
+          type: "Au",
+          dataDateStart: "",
+          dataDateEnd: ""})
+        }),
       fetch("https://m.search.naver.com/p/csearch/content/qapirender.nhn?key=calculator&pkid=141&q=%ED%99%98%EC%9C%A8&where=m&u1=keb&u6=standardUnit&u7=0&u3=USD&u4=KRW&u8=down&u2=1"),
 
-      // @dev wrap to make it fetch-response-like
-      Promise.resolve({
-        ok: true,
-        json() {
-          return yahooFinance.quote("VOO")
-        }
-      }),
-      Promise.resolve({
-        ok: true,
-        json() {
-          return yahooFinance.quote("QQQ")
-        }
-      }),
+      // // @dev wrap to make it fetch-response-like
+      // Promise.resolve({
+      //   ok: true,
+      //   json() {
+      //     return yahooFinance.quote("VOO")
+      //   }
+      // }),
+      // Promise.resolve({
+      //   ok: true,
+      //   json() {
+      //     return yahooFinance.quote("QQQ")
+      //   }
+      // }),
     ]);
     
     const resolved = result
@@ -52,8 +59,10 @@ dotenv.config();
         (r): r is PromiseFulfilledResult<Response> => r.status === "fulfilled"
       )
       // @dev filter and split plain http ok response from yahoo finanace, which just returns an object
+      .filter((r) => r.value.ok)
       .map((r) => r.value.json())
-
+    console.log({resolved})
+    
     const sm = new Summary()
      
     for await (const body of resolved) {
@@ -117,18 +126,18 @@ dotenv.config();
     }
 
     console.log({ sm })
-    const content = JSON.stringify(sm, null, 2)
-    const response = await fetch(endpoint, {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-      },
-      body: JSON.stringify({ content }),
-    });
+    // const content = JSON.stringify(sm, null, 2)
+    // const response = await fetch(endpoint, {
+    //   method: "POST",
+    //   headers: {
+    //     "content-type": "application/json",
+    //   },
+    //   body: JSON.stringify({ content }),
+    // });
 
-    // no body from discord
-    const { status, statusText } = response
-    console.info({ status, statusText });
+    // // no body from discord
+    // const { status, statusText } = response
+    // console.info({ status, statusText });
   } catch (error) {
     console.error(error);
   }
