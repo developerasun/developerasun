@@ -21,15 +21,15 @@ dotenv.config();
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-BTC"),
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-ETH"),
       fetch("https://api.bithumb.com/v1/ticker?markets=KRW-USDT"),
-      fetch("https://apiserver.koreagoldx.co.kr/api/price/lineUp/list", {
-        method: "POST",
-        headers: {"Content-Type": "application/json"},
-        body: JSON.stringify({
-          srchDt: "5M",
-          type: "Au",
-          dataDateStart: "",
-          dataDateEnd: ""})
-        }),
+      // fetch("https://apiserver.koreagoldx.co.kr/api/price/lineUp/list", {
+      //   method: "POST",
+      //   headers: {"Content-Type": "application/json"},
+      //   body: JSON.stringify({
+      //     srchDt: "5M",
+      //     type: "Au",
+      //     dataDateStart: "",
+      //     dataDateEnd: ""})
+      //   }),
       fetch("https://m.search.naver.com/p/csearch/content/qapirender.nhn?key=calculator&pkid=141&q=%ED%99%98%EC%9C%A8&where=m&u1=keb&u6=standardUnit&u7=0&u3=USD&u4=KRW&u8=down&u2=1"),
 
       // @dev wrap to make it fetch-response-like
@@ -52,10 +52,8 @@ dotenv.config();
         (r): r is PromiseFulfilledResult<Response> => r.status === "fulfilled"
       )
       // @dev filter and split plain http ok response from yahoo finanace, which just returns an object
-      .filter((r) => r.value.ok)
       .map((r) => r.value.json())
 
-    console.log({resolved})
     const sm = new Summary()
      
     for await (const body of resolved) {
