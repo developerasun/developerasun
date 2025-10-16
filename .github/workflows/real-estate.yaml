@@ -2,8 +2,8 @@ name: RealEstateWebhook
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "10 21 * * *" # 매일 06:10 KST (다음 날)
+  # schedule:
+  #   - cron: "10 21 * * *" # 매일 06:10 KST (다음 날)
 
 jobs:
   cronjob:
