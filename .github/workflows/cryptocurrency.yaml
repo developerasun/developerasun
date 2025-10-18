@@ -2,8 +2,8 @@ name: CryptoWebhook
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "0 21 * * *" # 매일 06:00 KST (다음 날)
+  schedule:
+    - cron: "0 21 * * *" # 매일 06:00 KST (다음 날)
 
 jobs:
   cronjob:
