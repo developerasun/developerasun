@@ -1,6 +1,6 @@
 import dotenv from "dotenv";
 import BITHUMB_API_RESPONSE from "./bithumb-api.json" with { type: "json" };
-import KOREA_GOLDX_API_RESPONSE from './koreagoldx-api.json' with { type: "json" };
+import GOLD_API_RESPONSE from './gold-api.json' with { type: "json" };
 import NAVER_API_RESPONSE from './naver-api.json' with { type: "json" };
 import YAHOO_API_RESPONSE from './yahoo-api.json' with { type: "json" };
 import YahooFinance from "yahoo-finance2";
@@ -22,15 +22,7 @@ dotenv.config();
         fetch("https://api.bithumb.com/v1/ticker?markets=KRW-BTC"),
         fetch("https://api.bithumb.com/v1/ticker?markets=KRW-ETH"),
         fetch("https://api.bithumb.com/v1/ticker?markets=KRW-USDT"),
-        fetch("https://apiserver.koreagoldx.co.kr/api/price/lineUp/list", {
-          method: "POST",
-          headers: {"Content-Type": "application/json"},
-          body: JSON.stringify({
-            srchDt: "5M",
-            type: "Au",
-            dataDateStart: "",
-            dataDateEnd: ""})
-          }),
+        fetch("https://api.gold-api.com/price/XAU"),
         fetch("https://m.search.naver.com/p/csearch/content/qapirender.nhn?key=calculator&pkid=141&q=%ED%99%98%EC%9C%A8&where=m&u1=keb&u6=standardUnit&u7=0&u3=USD&u4=KRW&u8=down&u2=1"),
 
         // @dev wrap to make it fetch-response-like
@@ -59,20 +51,19 @@ dotenv.config();
       const sm = new Summary()
       
       for await (const body of resolved) {
-        let b = body as unknown as typeof BITHUMB_API_RESPONSE | typeof KOREA_GOLDX_API_RESPONSE | typeof NAVER_API_RESPONSE | typeof YAHOO_API_RESPONSE;
-        const isGoldApi = Object.prototype.hasOwnProperty.call(body, "lineUpVal")
+        let b = body as unknown as typeof BITHUMB_API_RESPONSE | typeof GOLD_API_RESPONSE | typeof NAVER_API_RESPONSE | typeof YAHOO_API_RESPONSE;
+        const isGoldApi = Object.prototype.hasOwnProperty.call(body, "name") && body.name === "Gold"
         const isDollarApi = Object.prototype.hasOwnProperty.call(body, "pkid")
         const isEftApi = Object.prototype.hasOwnProperty.call(body, "fullExchangeName")
 
         if (isGoldApi) {
-          const gold = b as typeof KOREA_GOLDX_API_RESPONSE
-          const latestPrice = gold.lineUpVal[0];
-          const { spure: _buy, ppure: _sell, writeday: _date } = latestPrice
+          const gold = b as typeof GOLD_API_RESPONSE
+          const latestPrice = gold
+          const { price: _buy, updatedAt: _date } = latestPrice
           const date = new Date(_date).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
-          const buy = sm.toWon(_buy)
-          const sell = sm.toWon(_sell)
+          const buy = sm.toDollar(_buy)
 
-          sm.setGold({ "날짜": date, "사는 가격": buy, "파는 가격": sell })
+          sm.setGold({ "날짜": date, "사는 가격": buy, "유닛": "XAU(31.1g)" })
 
         } else if (isDollarApi) {
           const dollar = b as typeof NAVER_API_RESPONSE

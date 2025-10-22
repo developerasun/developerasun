@@ -16,7 +16,7 @@ export class Summary {
   금: {
     날짜: string;
     "사는 가격": string;
-    "파는 가격": string;
+    유닛: string;
   } | null;
   "달러 환율": string | null;
   "스테이블 환율": string | null;
@@ -92,7 +92,7 @@ export class Summary {
     return this;
   }
 
-  setGold(detail: { 날짜: string; "사는 가격": string; "파는 가격": string }) {
+  setGold(detail: { 날짜: string; "사는 가격": string; 유닛: string }) {
     this.금 = detail;
     return this;
   }
