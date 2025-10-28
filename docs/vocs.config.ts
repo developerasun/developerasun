@@ -38,24 +38,6 @@ export default defineConfig({
           text: "Hexbook",
           link: "/portfolio/hexbook",
         },
-        {
-          text: "Nirvana",
-          link: "/portfolio/nirvana",
-        },
-      ],
-    },
-    {
-      text: "Work With Me",
-      link: "/work-with-me",
-      items: [
-        {
-          text: "Coffee Chat",
-          link: "/work-with-me/coffee-chat",
-        },
-        {
-          text: "Freelance",
-          link: "/work-with-me/freelance",
-        },
       ],
     },
     {
