@@ -16,8 +16,7 @@
   },
   "dependencies": {
     "dotenv": "^17.2.1",
-    "node": "^22.17.1",
-    "yahoo-finance2": "3.10.0"
+    "node": "^22.17.1"
   },
   "type": "module"
 }
