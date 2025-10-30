@@ -24,4 +24,6 @@ jobs:
       - name: Inspect daily asset prices
         env:
           DISCORD_FINANCIAL_ASSET_INDEX: ${{ secrets.DISCORD_FINANCIAL_ASSET_INDEX }}
+          COINMARKETCAP_API_KEY: ${{ secrets.COINMARKETCAP_API_KEY }}
+          API_NINJAS_API_KEY: ${{ secrets.API_NINJAS_API_KEY }}
         run: cd scheduling && node --experimental-strip-types ./src/cryptocurrency.ts
