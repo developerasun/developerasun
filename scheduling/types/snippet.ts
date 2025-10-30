@@ -13,6 +13,11 @@ export class Summary {
     "1년내 최고가": string;
     "1년내 최저가": string;
   } | null;
+  공포탐욕: {
+    날짜: string;
+    지수: string;
+    분류: string;
+  } | null;
   금: {
     날짜: string;
     "사는 가격": string;
@@ -22,20 +27,17 @@ export class Summary {
   "스테이블 환율": string | null;
   "S&P500": {
     날짜: string;
-    "장전 가격": string;
-    "정규장 가격": string;
-    "장후 가격": string;
+    가격: string;
   } | null;
   "Nasdaq100": {
     날짜: string;
-    "장전 가격": string;
-    "정규장 가격": string;
-    "장후 가격": string;
+    가격: string;
   } | null;
 
   constructor() {
     this.비트코인 = null;
     this.이더리움 = null;
+    this.공포탐욕 = null;
     this.금 = null;
     this["달러 환율"] = null;
     this["S&P500"] = null;
@@ -62,22 +64,17 @@ export class Summary {
     return this;
   }
 
-  setSnP500(detail: {
-    날짜: string;
-    "장전 가격": string;
-    "정규장 가격": string;
-    "장후 가격": string;
-  }) {
+  setCryptoFearGrid(detail: { 날짜: string; 지수: string; 분류: string }) {
+    this.공포탐욕 = detail;
+    return this;
+  }
+
+  setSnP500(detail: { 날짜: string; 가격: string }) {
     this["S&P500"] = detail;
     return this;
   }
 
-  setNasdaq100(detail: {
-    날짜: string;
-    "장전 가격": string;
-    "정규장 가격": string;
-    "장후 가격": string;
-  }) {
+  setNasdaq100(detail: { 날짜: string; 가격: string }) {
     this["Nasdaq100"] = detail;
     return this;
   }
