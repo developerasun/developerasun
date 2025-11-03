@@ -3,6 +3,8 @@ layout: landing
 ---
 
 import { HomePage } from "vocs/components";
+import { Highlight } from "../components/common";
+
 import { PUB_DIR_PATH } from "./index";
 
 <HomePage.Root>
@@ -24,22 +26,3 @@ import { PUB_DIR_PATH } from "./index";
     </HomePage.Button>
   </HomePage.Buttons>
 </HomePage.Root>
-
-export const Highlight = ({ children, color }) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: "2px",
-      color: "#fff",
-      padding: "0.2rem",
-    }}
-  >
-    {children}
-  </span>
-);
-
-<Highlight color="#25c2a0">도큐사우루스 초록</Highlight>과 <Highlight color="#1877F2">
-  페이스북 파랑
-</Highlight>은 내가 좋아하는 색입니다.
-
-**마크다운**을 *JSX*와 같이 사용할 수 있습니다!
