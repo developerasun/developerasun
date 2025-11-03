@@ -18,6 +18,11 @@ export class Summary {
     지수: string;
     분류: string;
   } | null;
+  도미넌스: {
+    날짜: string;
+    비트코인: string;
+    이더리움: string;
+  } | null;
   금: {
     날짜: string;
     "사는 가격": string;
@@ -38,6 +43,7 @@ export class Summary {
     this.비트코인 = null;
     this.이더리움 = null;
     this.공포탐욕 = null;
+    this.도미넌스 = null;
     this.금 = null;
     this["달러 환율"] = null;
     this["S&P500"] = null;
@@ -66,6 +72,15 @@ export class Summary {
 
   setCryptoFearGrid(detail: { 날짜: string; 지수: string; 분류: string }) {
     this.공포탐욕 = detail;
+    return this;
+  }
+
+  setCryptoDominance(detail: {
+    날짜: string;
+    비트코인: string;
+    이더리움: string;
+  }) {
+    this.도미넌스 = detail;
     return this;
   }
 

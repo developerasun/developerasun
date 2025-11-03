@@ -4,6 +4,7 @@ import GOLD_API_RESPONSE from './gold-api.json' with { type: "json" };
 import NAVER_API_RESPONSE from './naver-api.json' with { type: "json" };
 import API_NINJAS_API_RESPONSE from './apininjas-api.json' with { type: "json" };
 import COINMARKETCAP_FEAR_GRID_API_RESPONSE from './coinmarketcap-feargrid-api.json' with { type: "json" };
+import COINMARKETCAP_DOMINANCE_API_RESPONSE from './coinmarketcap-dominance-api.json' with { type: "json" };
 import { Summary } from "../types/snippet.ts";
 
 dotenv.config();
@@ -50,7 +51,12 @@ dotenv.config();
         headers: {
           "X-CMC_PRO_API_KEY": coinmarketcapApiKey
         }
-      })
+      }),
+      fetch("https://pro-api.coinmarketcap.com/v1/global-metrics/quotes/latest", {
+        headers: {
+          "X-CMC_PRO_API_KEY": coinmarketcapApiKey
+        }
+      }),
     ]);
     
     const resolved = result
@@ -72,11 +78,12 @@ dotenv.config();
     const sm = new Summary()
     
     for await (const body of resolved) {
-      let b = body as unknown as typeof BITHUMB_API_RESPONSE | typeof GOLD_API_RESPONSE | typeof NAVER_API_RESPONSE | typeof API_NINJAS_API_RESPONSE | typeof COINMARKETCAP_FEAR_GRID_API_RESPONSE;
+      let b = body as unknown as typeof BITHUMB_API_RESPONSE | typeof GOLD_API_RESPONSE | typeof NAVER_API_RESPONSE | typeof API_NINJAS_API_RESPONSE | typeof COINMARKETCAP_FEAR_GRID_API_RESPONSE | typeof COINMARKETCAP_DOMINANCE_API_RESPONSE;
       const isGoldApi = Object.prototype.hasOwnProperty.call(body, "name") && body.name === "Gold"
       const isDollarApi = Object.prototype.hasOwnProperty.call(body, "pkid")
       const isEftApi = Object.prototype.hasOwnProperty.call(body, "ticker")
-      const isCoinmarketcapApi = Object.prototype.hasOwnProperty.call(body, "status")
+      const isCoinmarketcapFearGridApi = Object.prototype.hasOwnProperty.call(body, "status") && typeof body.data.value_classification === "string"
+      // const isCoinmarketcapDominanceApi = Object.prototype.hasOwnProperty.call(body, "status") && typeof body.data.btc_dominance === "string"
       const isCoinApi = Array.isArray(body)
       const date = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })
 
@@ -127,10 +134,14 @@ dotenv.config();
           "1년내 최고가": sm.toWon(yearHigh) , 
           "1년내 최저가": sm.toWon(yearLow)
         })
-      } else if (isCoinmarketcapApi) {
+      } else if (isCoinmarketcapFearGridApi) {
         const fearGrid = b as typeof COINMARKETCAP_FEAR_GRID_API_RESPONSE
         const { data: { value, value_classification }} = fearGrid
         sm.setCryptoFearGrid({ 날짜: date, 지수: `${value}/100`, 분류: value_classification })
+      } else {
+        const dominance = b as typeof COINMARKETCAP_DOMINANCE_API_RESPONSE
+        const { data: { btc_dominance, eth_dominance }} = dominance
+        sm.setCryptoDominance({ 날짜: date, 비트코인: `${btc_dominance.toFixed(2)}%`, 이더리움: `${eth_dominance.toFixed(2)}%` })
       }
     }
 
