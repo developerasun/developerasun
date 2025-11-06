@@ -4,9 +4,9 @@
       "Welcome to React": "Welcome to React and react-i18next"
     }
   },
-  "fr": {
+  "kr": {
     "translation": {
-      "Welcome to React": "Bienvenue à React et react-i18next"
+      "Welcome to React": "리액트, 리액트 i18에 오신 것을 환영합니다."
     }
   }
 }
