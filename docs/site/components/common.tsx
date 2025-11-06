@@ -1,5 +1,4 @@
 import { ReactNode } from "react";
-import { PUB_DIR_PATH } from "../pages/index";
 
 /**
  * 
@@ -27,14 +26,18 @@ export const Highlight = ({
   </span>
 );
 
-export const DeadSideProject = ({
+export const SideProjectItem = ({
   title,
   description,
   date,
+  color,
+  thumbnail,
 }: {
   title: string;
   description: string;
   date: string;
+  color: string;
+  thumbnail: string;
 }) => (
   <div
     style={{
@@ -60,14 +63,15 @@ export const DeadSideProject = ({
           display: "block",
           margin: "0 auto 0.5rem",
         }}
-        src={`${PUB_DIR_PATH}tombstone.svg`}
+        src={thumbnail}
         alt="thumbnail"
       />
       <span style={{ fontSize: "0.9rem", color: "#666" }}>{date}</span>
     </div>
 
     <div style={{ flex: 1 }}>
-      <Highlight color="tomato">{title}</Highlight>
+      <Highlight color={color}>{title}</Highlight>
+      <br />
       {description}
     </div>
   </div>
