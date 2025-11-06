@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import { PUB_DIR_PATH } from "../pages/index";
 
 /**
  * 
@@ -24,4 +25,50 @@ export const Highlight = ({
   >
     {children}
   </span>
+);
+
+export const DeadSideProject = ({
+  title,
+  description,
+  date,
+}: {
+  title: string;
+  description: string;
+  date: string;
+}) => (
+  <div
+    style={{
+      display: "flex",
+      alignItems: "flex-start", // 상단 기준으로 정렬
+      gap: "1.5rem",
+    }}
+  >
+    <div
+      style={{
+        width: "100px",
+        textAlign: "center",
+        flexShrink: 0, // 왼쪽 영역 고정
+      }}
+    >
+      <img
+        style={{
+          width: "75px",
+          height: "75px",
+          objectFit: "cover",
+          backgroundColor: "white",
+          borderRadius: "15px",
+          display: "block",
+          margin: "0 auto 0.5rem",
+        }}
+        src={`${PUB_DIR_PATH}tombstone.svg`}
+        alt="thumbnail"
+      />
+      <span style={{ fontSize: "0.9rem", color: "#666" }}>{date}</span>
+    </div>
+
+    <div style={{ flex: 1 }}>
+      <Highlight color="tomato">{title}</Highlight>
+      {description}
+    </div>
+  </div>
 );

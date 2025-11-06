@@ -1,4 +1,5 @@
 import { PUB_DIR_PATH } from "./index";
+import { Highlight, DeadSideProject } from "../components/common";
 
 # Portfolio
 
@@ -10,6 +11,7 @@ and a carefully selected one is not disclosed here.
 ## 💀 Dead ones
 
 These are side projects that I had quit in the middle.
+Codes exist but not hosted anywhere so no way to show the demo now.
 
 <div
   style={{
@@ -19,79 +21,28 @@ These are side projects that I had quit in the middle.
   }}
 >
 
-<div style={{ display: "flex", justifyContent: "left", gap: "2rem" }}>
-  <div>
-    <img
-      style={{ width: "75px", backgroundColor: "white", borderRadius: "15px" }}
-      src={`${PUB_DIR_PATH}` + "tombstone.svg"}
-      alt="thumbnail"
-    />
-    <span>Jun 10, 2024</span>
-  </div>
-  <div>
-    <span>Cleverowls</span>
-    <p>TODO: ss</p>
-  </div>
-</div>
+<DeadSideProject
+  title="Clever Owls"
+  description="Membership mobile flutter app for close friends. Created a github repository
+    with rough ideas but never actually coded any."
+  date="Jun 10, 2024"
+/>
 
-{/*  */}
+<DeadSideProject
+  title="Edu Labs"
+  description="Web3 course selling website. I had prepared a few hand-drafted diagrams and PDF
+    files to sell and coded a website. At the time, I managed to develop a client(`React`)/server(`Fiber`)
+    full stack but didn't really have a clue for infrastructure."
+  date="Aug 9, 2023"
+/>
 
-<div style={{ display: "flex", justifyContent: "left", gap: "2rem" }}>
-  <div>
-    <img
-      style={{ width: "75px", backgroundColor: "white", borderRadius: "15px" }}
-      src={`${PUB_DIR_PATH}` + "tombstone.svg"}
-      alt="thumbnail"
-    />
-    <span>Aug 9, 2023</span>
-  </div>
-  <div>
-    <span>EduLabs</span>
-    <p>TODO: ss</p>
-  </div>
-</div>
-
-{/*  */}
-
-<div style={{ display: "flex", justifyContent: "left", gap: "2rem" }}>
-  <div>
-    <img
-      style={{ width: "75px", backgroundColor: "white", borderRadius: "15px" }}
-      src={`${PUB_DIR_PATH}` + "tombstone.svg"}
-      alt="thumbnail"
-    />
-    <span>Aug 12, 2022</span>
-  </div>
-  <div>
-    <span>MeowRun</span>
-    <p>
-      웹, 유니티 기반 무설치 3D cat runner 게임 / 외계인, 독사, 독거미 같은
-      위험한 적들이 당신의 고양이를 위협해요! 방향키를 움직여 적들을 피하고
-      고양이를 안전한 곳까지 이동해주세요 - 귀찮은 다운로드 및 설치 없이 URL로
-      바로 플레이가 가능한 MeowRun을 지금 만나보세요.
-    </p>
-  </div>
-</div>
-
-{/*  */}
-
-<div style={{ display: "flex", justifyContent: "left", gap: "2rem" }}>
-  <div>
-    <img
-      style={{ width: "75px", backgroundColor: "white", borderRadius: "15px" }}
-      src={`${PUB_DIR_PATH}` + "tombstone.svg"}
-      alt="thumbnail"
-    />
-    <span>Jul 12, 2022</span>
-  </div>
-  <div>
-    <span>Pawcon</span>
-    <p>
-      TODO: see readme/implementation:
-      https://github.com/developerasun/pawcon?tab=readme-ov-file#project-details
-    </p>
-  </div>
-</div>
+<DeadSideProject
+  title="MeowRun"
+  description="Zero install 3D platformer game, hosted on `shimmer.io`, developed with `Unity`.
+    Player is a cat whose target is to safely finish to destination, avoiding dangerous
+    enemies like aliens, snakes, and spiders."
+  date="Aug 12, 2022"
+/>
 
 </div>
 
