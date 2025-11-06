@@ -27,16 +27,16 @@ export default defineConfig({
       link: "/portfolio",
       items: [
         {
+          text: "Hexbook",
+          link: "/portfolio/hexbook",
+        },
+        {
           text: "Ricktcal Worldcup",
           link: "/portfolio/ricktcal-worldcup",
         },
         {
-          text: "Mantra",
-          link: "/portfolio/mantra",
-        },
-        {
-          text: "Hexbook",
-          link: "/portfolio/hexbook",
+          text: "Owlly",
+          link: "/portfolio/owlly",
         },
       ],
     },
