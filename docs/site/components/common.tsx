@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import { useTranslation } from "react-i18next";
 
 /**
  * 
@@ -76,3 +77,10 @@ export const SideProjectItem = ({
     </div>
   </div>
 );
+
+export function Check() {
+  const { t } = useTranslation();
+  return <h1>{t("Welcome to React")}</h1>;
+}
+
+export function ToggleDefaultLanguage() {}

@@ -3,8 +3,7 @@ layout: landing
 ---
 
 import { HomePage } from "vocs/components";
-import { Highlight } from "../components/common";
-
+import { Highlight, Check } from "../components/common";
 import { PUB_DIR_PATH } from "./index";
 
 <HomePage.Root>
@@ -16,6 +15,8 @@ import { PUB_DIR_PATH } from "./index";
 <HomePage.Description>
   This is my profile page <br /> listing out my what, why, and how.
 </HomePage.Description>
+
+<Check />
 
   <HomePage.Buttons>
     <HomePage.Button href="/about" variant="accent">
