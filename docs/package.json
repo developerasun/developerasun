@@ -12,8 +12,10 @@
     "v:major": "pnpm version major"
   },
   "dependencies": {
+    "i18next": "^25.6.0",
     "react": "latest",
     "react-dom": "latest",
+    "react-i18next": "^16.2.4",
     "vocs": "latest"
   },
   "devDependencies": {
