@@ -2,15 +2,302 @@
   "en": {
     "translation": {
       "tagline": "Software Engineer since 2022",
+      "explore": "Explore",
+      "github": "Github",
       "profileDescription": "This is my profile page listing out my what, why, and how.",
-      "withVideo": "Watch a one-minute-long video for quick intro."
+      "about": {
+        "title": "About",
+        "withVideo": "Watch a one-minute-long video for quick intro.",
+        "withText": "Read a one-minute-long paragraph for quick intro.",
+        "faqIntro": {
+          "intro": "Here are some common questions I got as a software engineer. Please take a look before you decide to proceed to work with me :)",
+          "q1": {
+            "question": "Q. You did not major in computer science in college. Why changed career path?",
+            "answer": "A. Discovered Ethereum in 2021."
+          },
+          "q2": {
+            "question": "Q. Are you self-taught?",
+            "answer": "A. I help and get help online."
+          },
+          "q3": {
+            "question": "Q. We need a full stack developer. Are you good at Nextjs?",
+            "answer": "A. See below link."
+          },
+          "q4": {
+            "question": "Q. Any other languages than JavaScript?",
+            "answer": "A. See belows."
+          },
+          "q5": {
+            "question": "Q. I want to know how you would handle async tasks in Nodejs.",
+            "answer": "A. See below link."
+          },
+          "q6": {
+            "question": "A. See belows."
+          }
+        },
+        "coffeeChat": {
+          "title": "Coffee Chat",
+          "description": "Discord is a quick way to contact me for online coffee chat. Hit Join Discord button then it will lead to my voice channel. I might be on and off but hit me up when I'm online!"
+        }
+      },
+      "projects": {
+        "title": "Projects",
+        "description": "A dedicated section for summarizing company works I have engaged.",
+        "note": "Any type of publicly paid work will be introduced here with filtering sensitive info first.",
+        "lapisProtocol": {
+          "title": "Lapis Protocol",
+          "overview": {
+            "title": "Overview",
+            "summary": "AOS reward app, Play to earn, Web3 project.",
+            "idea": "The main idea was simple — users play a mobile game and claim an ERC20 token based on playtime.",
+            "period": "From the service launch (Nov 2023) to end of service (Aug 2025), I worked on this project with the following teammates:",
+            "team": [
+              "1 project manager",
+              "1 product owner",
+              "1 product designer",
+              "2 frontend developers",
+              "3 backend developers"
+            ],
+            "note": "The project itself may have been dead (or alive) after I left the company, but the smart contracts I coded still exist on L2 Optimism mainnet."
+          },
+          "techStack": {
+            "title": "Tech stack",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "blockchain": "Blockchain",
+            "infra": "Infra",
+            "frontendDetails": "`flutter`, `mui`, `fastlane`, `nextjs`",
+            "backendDetails": "`nodejs`, `nestjs`, `caddy`, `mysql`, `redis`, `typeorm`",
+            "blockchainDetails": "`Optimism`, `Alchemy`, `Hardhat`, `Solidity`, `Openzeppelin`",
+            "infraDetails": "`docker`, `docker swarm`, `cloudflare`, `aws`"
+          },
+          "role": {
+            "title": "Role in the project",
+            "summary": "I was mainly responsible for smart contract and web server, handling onchain transactions with failover.",
+            "contracts": "Check out a list of verified smart contracts I coded during the project.",
+            "note": "Note that these have been all public at the moment of deployment, while upgradeable implementation’s ABI was not disclosed for security reasons."
+          }
+        }
+      },
+      "portfolio": {
+        "title": "Portfolio",
+        "description": "A list of side projects by me.",
+        "note": "Some of them are being maintained, some of them have been shutdown, and some of them are not disclosed here.",
+        "dead": {
+          "title": "💀 Dead ones",
+          "description": "These are side projects that I had quit in the middle. Codes exist but not hosted anywhere so no way to show the demo now.",
+          "projects": {
+            "cleverOwls": {
+              "title": "Clever Owls",
+              "description": "Membership mobile flutter app for close friends. Created a github repository with rough ideas but never actually coded any.",
+              "date": "Jun 10, 2024"
+            },
+            "eduLabs": {
+              "title": "Edu Labs",
+              "description": "Web3 course selling website. I had prepared a few hand-drafted diagrams and PDF files to sell and coded a website. At the time, I managed to develop a client(`React`)/server(`Fiber`) full stack but didn't really have a clue for infrastructure.",
+              "date": "Aug 9, 2023"
+            },
+            "meowRun": {
+              "title": "MeowRun",
+              "description": "Zero install 3D platformer game, hosted on `shimmer.io`, developed with `Unity`. Player is a cat whose target is to safely finish to destination, avoiding dangerous enemies like aliens, snakes, and spiders.",
+              "date": "Aug 12, 2022"
+            }
+          }
+        },
+        "alive": {
+          "title": "💻 Alive ones",
+          "description": "Below side projects are relatively newer and maintained to some extent. Code exists, instance deployed, and versioning possible.",
+          "projects": {
+            "hexbook": {
+              "title": "Hexbook",
+              "description": "QR code generator for Cryptocurrency tipping. Target to issue a simple invoice with `Ether` and `USDT`.",
+              "date": "Oct 29, 2025"
+            },
+            "ricktcalWorldcup": {
+              "title": "Ricktcal Worldcup",
+              "description": "Signature-based voting dapp for mobile game `Trickcal:Chibi Go`. Vote for one's favorite Character and earn web3 rewards in return.",
+              "date": "Aug 18, 2025"
+            },
+            "owlly": {
+              "title": "Owlly",
+              "description": "`When did .env value get updated?`, `Who updated this?`. Sometimes we miss important secret updates while coding at work, so I made this desktop app to notify the updates to teammates.",
+              "date": "Feb 4, 2023"
+            }
+          }
+        },
+        "cta": "Let's take a close look at them →"
+      },
+      "blog": {
+        "intro": {
+          "title": "Blog | Introduction",
+          "date": "October 7, 2025",
+          "author": "by Jake Sung",
+          "paragraphs": {
+            "p1": "When random thoughts hit me at midnight, I felt there should be a way to express those somewhere.",
+            "p2": "It would be hard to say I'm at the top of my career, at all, but throughout the journey I happened to have my own view towards certain topics.",
+            "p3": "For example,"
+          },
+          "questions": [
+            "Do you need a CS degree to be a software engineer?",
+            "Do I rent monthly or Jeonse (Key money deposit)?",
+            "How much saving should I keep monthly? Or just spend every penny?",
+            "When should I quit 9 to 5? Or, should I just do forever till retirement?",
+            "Is college useless when getting a job?"
+          ],
+          "closing": "So topics and tones will be quite random and raw as I just pour them out online without second thoughts."
+        }
+      }
     }
   },
   "kr": {
     "translation": {
-      "tagline": "3년차 소프트웨어 엔지니어",
+      "tagline": "성종현 | 3년차 소프트웨어 엔지니어",
+      "explore": "살펴보기",
+      "github": "깃허브",
       "profileDescription": "개인 작업물과 히스토리를 정리한 프로필 페이지입니다.",
-      "withVideo": "빠르고, 간결하게. 1분 자기소개 영상으로 저의 성향을 담았습니다. "
+      "about": {
+        "title": "소개",
+        "withVideo": "빠르고, 간결하게. 1분 자기소개 영상으로 저의 성향을 담았습니다.",
+        "withText": "1분 안에 읽는 짧은 소개 글",
+        "faqIntro": {
+          "intro": "소프트웨어 엔지니어로 일하며 자주 받는 질문을 모았습니다. 함께 일하기 전에 가볍게 읽어보세요 :)",
+          "q1": {
+            "question": "Q. 대학에서 컴퓨터공학을 전공하지 않았는데, 왜 개발자가 되었나요?",
+            "answer": "A. 2021년에 이더리움을 알게 되면서 인생이 바뀌었습니다."
+          },
+          "q2": {
+            "question": "Q. 독학하신 건가요?",
+            "answer": "A. 온라인에서 도움을 주고받으며 배우고 있습니다."
+          },
+          "q3": {
+            "question": "Q. 풀스택 개발자를 찾고 있는데, Next.js는 잘 다루시나요?",
+            "answer": "A. 이 링크를 참고해주세요."
+          },
+          "q4": {
+            "question": "Q. JavaScript 외에 다른 언어도 다루시나요?",
+            "answer": "A. 아래 프로젝트들을 참고해주세요."
+          },
+          "q5": {
+            "question": "Q. Node.js에서 비동기 작업은 어떻게 처리하시나요?",
+            "answer": "A. 아래 코드를 참고하시면 됩니다."
+          },
+          "q6": {
+            "question": "Q. 메인넷에 스마트 컨트랙트를 배포한 경험이 있나요?",
+            "answer": "A. 네, 아래 링크를 참고해주세요."
+          }
+        },
+        "coffeeChat": {
+          "title": "커피챗",
+          "description": "디스코드로 간단히 커피챗을 나눌 수 있습니다. `Join Discord` 버튼을 누르면 제 음성 채널로 연결됩니다. 제가 항상 온라인은 아니지만, 접속 중일 때 편하게 이야기 걸어주세요!"
+        }
+      },
+      "projects": {
+        "title": "프로젝트",
+        "description": "제가 참여했던 회사 프로젝트를 요약해 정리한 공간입니다.",
+        "note": "공개 가능한 범위 내에서, 유료로 진행된 작업만 필터링 후 소개합니다.",
+        "lapisProtocol": {
+          "title": "라피스 프로토콜",
+          "overview": {
+            "title": "개요",
+            "summary": "AOS 리워드 앱, 플레이투언(Play-to-Earn) 기반 Web3 프로젝트입니다.",
+            "idea": "핵심 아이디어는 간단했습니다 — 사용자가 모바일 게임을 플레이하면, 플레이 시간에 따라 ERC20 토큰을 획득하는 구조입니다.",
+            "period": "서비스 런칭(2023년 11월)부터 종료(2025년 8월)까지 다음과 같은 팀원들과 함께했습니다:",
+            "team": [
+              "프로젝트 매니저 1명",
+              "프로덕트 오너 1명",
+              "프로덕트 디자이너 1명",
+              "프론트엔드 개발자 2명",
+              "백엔드 개발자 3명"
+            ],
+            "note": "제가 퇴사한 후 프로젝트는 중단되었을 수도 있지만, 제가 작성한 스마트 컨트랙트들은 여전히 L2 Optimism 메인넷 상에서 존재합니다."
+          },
+          "techStack": {
+            "title": "기술 스택",
+            "frontend": "프론트엔드",
+            "backend": "백엔드",
+            "blockchain": "블록체인",
+            "infra": "인프라",
+            "frontendDetails": "`flutter`, `mui`, `fastlane`, `nextjs`",
+            "backendDetails": "`nodejs`, `nestjs`, `caddy`, `mysql`, `redis`, `typeorm`",
+            "blockchainDetails": "`Optimism`, `Alchemy`, `Hardhat`, `Solidity`, `Openzeppelin`",
+            "infraDetails": "`docker`, `docker swarm`, `cloudflare`, `aws`"
+          },
+          "role": {
+            "title": "프로젝트 내 역할",
+            "summary": "스마트 컨트랙트와 웹 서버를 주로 담당하며, 온체인 트랜잭션을 안정적으로 처리하는 기능을 구현했습니다.",
+            "contracts": "제가 직접 작성하고 검증된 스마트 컨트랙트 목록은 아래와 같습니다.",
+            "note": "이 컨트랙트들은 배포 시점 기준 모두 공개 상태였으며, 업그레이드 가능한 구현체의 ABI는 보안상 비공개로 유지되었습니다."
+          }
+        }
+      },
+      "portfolio": {
+        "title": "포트폴리오",
+        "description": "제가 개인적으로 진행한 사이드 프로젝트들의 목록입니다.",
+        "note": "지금도 유지·운영 중인 프로젝트도 있고, 종료된 것들도 있으며, 공개하지 않은 작업도 있습니다.",
+        "dead": {
+          "title": "💀 중단된 프로젝트",
+          "description": "개발 도중 중단한 사이드 프로젝트들입니다. 코드 자체는 존재하지만 호스팅이 중단되어 데모를 보여드릴 수는 없습니다.",
+          "projects": {
+            "cleverOwls": {
+              "title": "Clever Owls",
+              "description": "가까운 친구들을 위한 멤버십 모바일 앱(Flutter). 아이디어만 정리한 GitHub 저장소를 만들었지만 실제 개발로 이어지진 않았습니다.",
+              "date": "2024년 6월 10일"
+            },
+            "eduLabs": {
+              "title": "Edu Labs",
+              "description": "Web3 기반 강의 판매 사이트. 손그림 다이어그램과 PDF 교안을 준비해 사이트를 제작했습니다. `React` 클라이언트와 `Fiber` 서버로 풀스택을 구성했지만, 당시엔 인프라 개념이 부족했습니다.",
+              "date": "2023년 8월 9일"
+            },
+            "meowRun": {
+              "title": "MeowRun",
+              "description": "`shimmer.io`에 호스팅된 설치 없이 실행 가능한 3D 플랫폼 게임. `Unity`로 개발되었으며, 플레이어는 고양이가 되어 외계인, 뱀, 거미 같은 적을 피하며 목적지까지 도달해야 합니다.",
+              "date": "2022년 8월 12일"
+            }
+          }
+        },
+        "alive": {
+          "title": "💻 유지 중인 프로젝트",
+          "description": "아래 프로젝트들은 상대적으로 최근에 제작되어 지금도 일정 부분 유지·관리되고 있습니다. 코드, 배포 인스턴스, 버전 기록이 존재합니다.",
+          "projects": {
+            "hexbook": {
+              "title": "Hexbook",
+              "description": "암호화폐 팁을 위한 QR 코드 생성기. `Ether`와 `USDT`로 간단한 인보이스를 발행할 수 있습니다.",
+              "date": "2025년 10월 29일"
+            },
+            "ricktcalWorldcup": {
+              "title": "Ricktcal 월드컵",
+              "description": "`Trickcal:Chibi Go` 모바일 게임을 위한 서명 기반 투표 DApp. 좋아하는 캐릭터에 투표하면 Web3 리워드를 얻을 수 있습니다.",
+              "date": "2025년 8월 18일"
+            },
+            "owlly": {
+              "title": "Owlly",
+              "description": "`.env 값이 언제, 누가 변경했는지` 추적할 수 있는 데스크톱 앱. 회사에서 환경 변수 업데이트를 놓치지 않도록 알림 기능을 제공합니다.",
+              "date": "2023년 2월 4일"
+            }
+          }
+        },
+        "cta": "프로젝트를 자세히 살펴보기 →"
+      },
+      "blog": {
+        "intro": {
+          "title": "블로그 | 소개",
+          "date": "2025년 10월 7일",
+          "author": "작성자: 제이크 성",
+          "paragraphs": {
+            "p1": "한밤중에 문득 떠오르는 생각들을 그냥 흘려보내기엔 아까워서, 어딘가에 남겨야겠다는 생각이 들었습니다.",
+            "p2": "아직 경력의 정점에 있다고 말하기는 어렵지만, 그동안의 여정 속에서 나름의 시선과 생각이 생겼습니다.",
+            "p3": "예를 들면 이런 것들입니다."
+          },
+          "questions": [
+            "소프트웨어 엔지니어가 되려면 꼭 컴퓨터공학 학위가 필요할까?",
+            "월세로 살까, 전세로 살까?",
+            "매달 얼마나 저축해야 할까? 아니면 그냥 다 써버려도 될까?",
+            "언제 9 to 5 회사를 그만둬야 할까? 아니면 은퇴할 때까지 계속해야 할까?",
+            "취업할 때 대학 학위는 정말 의미가 있을까?"
+          ],
+          "closing": "그래서 이 블로그는 다소 즉흥적이고 거칠 수 있습니다. 떠오르는 대로 생각을 정리하고, 솔직하게 기록하려 합니다."
+        }
+      }
     }
   }
 }
