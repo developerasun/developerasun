@@ -1,18 +1,20 @@
 import { PUB_DIR_PATH } from "../index";
+import { RenderTranslation } from "../../components/international";
 
 # Projects | Lapis Protocol
 
 ## Overview
 
-AOS reward app, Play to earn, Web3 project.
+<RenderTranslation tKey={"projects.lapisProtocol.overview.summary"} /> <br />
 
 <div style={{ width: "75%", margin: "1rem auto" }}>
   <img src={`${PUB_DIR_PATH}` + "lapis-protocol.png"} alt="thumbnail" />
 </div>
 
-The main idea was simple - user plays a mobile game and claims a ERC20 token based on game playtime.
+<RenderTranslation tKey={"projects.lapisProtocol.overview.idea"} /> <br />
+<br />
 
-From the service launch(`Nov 2023`) and end of service(`Aug 2025`), I was working on this project with following teammates.
+<RenderTranslation tKey={"projects.lapisProtocol.overview.period"} /> <br />
 
 - 1 project manager
 - 1 product owner
@@ -20,8 +22,9 @@ From the service launch(`Nov 2023`) and end of service(`Aug 2025`), I was workin
 - 2 frontend developers
 - 3 backend developers
 
-[Project itself](https://play.google.com/store/apps/details?id=com.mithril.lapis) might have been dead(or alive) after I left the company,
-but smart contracts I coded still exist on L2 Optimism mainnet.
+<RenderTranslation tKey={"projects.lapisProtocol.overview.note"} /> <br />
+
+[Playstore link](https://play.google.com/store/apps/details?id=com.mithril.lapis)
 
 ### Tech stack
 
@@ -34,9 +37,10 @@ but smart contracts I coded still exist on L2 Optimism mainnet.
 
 ## Role in the project
 
-I was mainly responsible for smart contract and web server, handling onchain transactions with failover.
+<RenderTranslation tKey={"projects.lapisProtocol.role.summary"} /> <br />
+<br />
 
-Check out a list of verified smart contracts I coded during the project.
+<RenderTranslation tKey={"projects.lapisProtocol.role.contracts"} /> <br />
 
 - [ERC20](https://optimism.blockscout.com/token/0x52F7A03f16fDd984458D88a7e9cd74256b328a3b)
 - [ERC721](https://optimism.blockscout.com/address/0xEE8e2B125F6eeD2da17dCE622B4caccE78d5578c)
@@ -45,4 +49,4 @@ Check out a list of verified smart contracts I coded during the project.
 - [Upgradeable: proxy](https://explorer.optimism.io/address/0xD7EaBf942a446D278AfD9a00B4aAe188b0664B21)
 - [Upgradeable: implementation](https://explorer.optimism.io/address/0x19A849cfA6588AA206BB0A8f65b46B08d1D1c3F4)
 
-Note that these have been all public at the moment of deployment while upgradeable implementaiton's ABI not disclosed for the security.
+<RenderTranslation tKey={"projects.lapisProtocol.role.note"} /> <br />

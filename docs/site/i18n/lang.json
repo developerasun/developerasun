@@ -42,8 +42,7 @@
       },
       "projects": {
         "title": "Projects",
-        "description": "A dedicated section for summarizing company works I have engaged.",
-        "note": "Any type of publicly paid work will be introduced here with filtering sensitive info first.",
+        "description": "A dedicated section for summarizing company works I have engaged. Any type of publicly paid work will be introduced here with filtering sensitive info first.",
         "lapisProtocol": {
           "title": "Lapis Protocol",
           "overview": {
@@ -193,8 +192,7 @@
       },
       "projects": {
         "title": "프로젝트",
-        "description": "제가 참여했던 회사 프로젝트를 요약해 정리한 공간입니다.",
-        "note": "공개 가능한 범위 내에서, 유료로 진행된 작업만 필터링 후 소개합니다.",
+        "description": "제가 참여했던 회사 프로젝트를 요약해 정리한 공간입니다. 공개 가능한 범위 내에서, 유료로 진행된 작업만 필터링 후 소개합니다.",
         "lapisProtocol": {
           "title": "라피스 프로토콜",
           "overview": {
