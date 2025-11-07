@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: minimal
 ---
 
 import { HomePage } from "vocs/components";
@@ -12,16 +12,16 @@ import { PUB_DIR_PATH } from "./index";
 
 <HomePage.Root>
   <HomePage.Logo />
-  <HomePage.Tagline>Software Engineer since 2022</HomePage.Tagline>
+  <HomePage.Tagline>
+    <RenderTranslation tKey="tagline"/>
+  </HomePage.Tagline>
+  <SetUpTranslation />
   <div style={{ width: "50%" }}>
     <img style={{ borderRadius: '50%'}} src={`${PUB_DIR_PATH}`+ "profile.jpg"} alt="profile"/>
   </div>
 <HomePage.Description>
-  This is my profile page <br /> listing out my what, why, and how.
+    <RenderTranslation tKey="profileDescription"/>
 </HomePage.Description>
-
-<SetUpTranslation />
-<RenderTranslation tKey={"Welcome to React"} />
 
   <HomePage.Buttons>
     <HomePage.Button href="/about" variant="accent">

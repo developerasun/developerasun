@@ -6,6 +6,8 @@ export default defineConfig({
   basePath: "/developerasun",
   iconUrl: { light: "/favicon.ico", dark: "/favicon.ico" },
   rootDir: "./site",
+
+  // @dev left sidebar
   sidebar: [
     {
       text: "About",
@@ -45,6 +47,11 @@ export default defineConfig({
       link: "/blog",
     },
   ],
+
+  // @dev top nav
+  topNav: [{ text: "🌍Language", link: "/#setup" }],
+
+  // @dev color theme
   theme: {
     colorScheme: "dark",
   },
