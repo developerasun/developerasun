@@ -5,8 +5,10 @@ export function SetUpTranslation() {
   return (
     <div
       id="setup"
-      className="rounded-md p-2 border-2 border-white-500 border-solid"
       style={{
+        border: "1px solid white",
+        padding: "0.5rem 0.75rem",
+        borderRadius: "15px",
         display: "grid",
         placeItems: "center",
         gridAutoFlow: "column",
