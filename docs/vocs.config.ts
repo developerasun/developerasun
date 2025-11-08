@@ -49,7 +49,7 @@ export default defineConfig({
   ],
 
   // @dev top nav
-  topNav: [{ text: "🌍Language", link: "/#setup" }],
+  topNav: [{ text: "🌍 Language", link: "/#setup" }],
 
   // @dev color theme
   theme: {
