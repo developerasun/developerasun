@@ -1,17 +1,15 @@
 import { PUB_DIR_PATH } from "./index";
 import { Highlight, SideProjectItem } from "../components/common";
+import { RenderTranslation } from "../components/international";
 
 # Portfolio
 
-A list of side projects by me.
-
-Some of them are being maintained, some of them have been shutdown,
-and some of them are not disclosed here.
+<RenderTranslation tKey={"portfolio.description"} />
+<RenderTranslation tKey={"portfolio.note"} />{" "}
 
 ## 💀 Dead ones
 
-These are side projects that I had quit in the middle.
-Codes exist but not hosted anywhere so no way to show the demo now.
+<RenderTranslation tKey={"portfolio.dead.description"} mb="1rem" />{" "}
 
 <div
   style={{
@@ -24,62 +22,45 @@ Codes exist but not hosted anywhere so no way to show the demo now.
 <SideProjectItem
   thumbnail={`${PUB_DIR_PATH}tombstone.svg`}
   color="tomato"
-  title="Clever Owls"
-  description="Membership mobile flutter app for close friends. Created a github repository
-    with rough ideas but never actually coded any."
-  date="Jun 10, 2024"
+  tKey={"portfolio.dead.projects.cleverOwls"}
 />
 
 <SideProjectItem
   thumbnail={`${PUB_DIR_PATH}tombstone.svg`}
   color="tomato"
-  title="Edu Labs"
-  description="Web3 course selling website. I had prepared a few hand-drafted diagrams and PDF
-    files to sell and coded a website. At the time, I managed to develop a client(`React`)/server(`Fiber`)
-    full stack but didn't really have a clue for infrastructure."
-  date="Aug 9, 2023"
+  tKey={"portfolio.dead.projects.eduLabs"}
 />
 
 <SideProjectItem
   thumbnail={`${PUB_DIR_PATH}tombstone.svg`}
   color="tomato"
-  title="MeowRun"
-  description="Zero install 3D platformer game, hosted on `shimmer.io`, developed with `Unity`.
-    Player is a cat whose target is to safely finish to destination, avoiding dangerous
-    enemies like aliens, snakes, and spiders."
-  date="Aug 12, 2022"
+  tKey={"portfolio.dead.projects.meowRun"}
 />
 
 </div>
 
 ## 💻 Alive ones
 
-Below side projects are relatively newer and maintained to some extent. Code exists, instance deployed, and versioning possible.
+<RenderTranslation tKey={"portfolio.alive.description"} mb="1rem" />{" "}
 
 <SideProjectItem
   thumbnail={`${PUB_DIR_PATH}hexbook.png`}
   color="#25c2a0"
-  title="Hexbook"
-  description="QR code generator for Cryptocurrency tipping. Target to issue a simple invoice with `Ether` and `USDT`"
-  date="Oct 29, 2025"
+  tKey={"portfolio.alive.projects.hexbook"}
 />
 
 <SideProjectItem
   thumbnail={`${PUB_DIR_PATH}ricktcal.webp`}
   color="#25c2a0"
-  title="Ricktcal Worldcup"
-  description="Signature-based voting dapp for mobile game `Trickcal:Chibi Go`. Vote for one's favorite Character and earn web3 rewards in return."
-  date="Aug 18, 2025"
+  tKey={"portfolio.alive.projects.ricktcalWorldcup"}
 />
 
 <SideProjectItem
   thumbnail={`${PUB_DIR_PATH}owlly.png`}
   color="#25c2a0"
-  title="Owlly"
-  description="`When did .env value get updated?`, `Who updated this?`. Sometimes we miss some important secret value updates while coding at work. so I made this desktop app to notify the updates to teammates."
-  date="Feb 4, 2023"
+  tKey={"portfolio.alive.projects.owlly"}
 />
 
-Let's take a close look at them
+<RenderTranslation tKey={"portfolio.cta"} mb="1rem" />{" "}
 
 →
