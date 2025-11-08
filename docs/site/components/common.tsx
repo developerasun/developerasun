@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import { useTranslation } from "react-i18next";
 
 /**
  * 
@@ -27,52 +28,55 @@ export const Highlight = ({
 );
 
 export const SideProjectItem = ({
-  title,
-  description,
-  date,
+  tKey,
   color,
   thumbnail,
 }: {
-  title: string;
-  description: string;
-  date: string;
+  tKey: string;
   color: string;
   thumbnail: string;
-}) => (
-  <div
-    style={{
-      display: "flex",
-      alignItems: "flex-start", // 상단 기준으로 정렬
-      gap: "1.5rem",
-    }}
-  >
+}) => {
+  const { t } = useTranslation();
+  const title = t(`${tKey}.title`);
+  const description = t(`${tKey}.description`);
+  const date = t(`${tKey}.date`);
+
+  return (
     <div
       style={{
-        width: "100px",
-        textAlign: "center",
-        flexShrink: 0, // 왼쪽 영역 고정
+        display: "flex",
+        alignItems: "flex-start", // 상단 기준으로 정렬
+        gap: "1.5rem",
       }}
     >
-      <img
+      <div
         style={{
-          width: "75px",
-          height: "75px",
-          objectFit: "cover",
-          backgroundColor: "white",
-          borderRadius: "15px",
-          display: "block",
-          margin: "0 auto 0.5rem",
+          width: "100px",
+          textAlign: "center",
+          flexShrink: 0, // 왼쪽 영역 고정
         }}
-        src={thumbnail}
-        alt="thumbnail"
-      />
-      <span style={{ fontSize: "0.9rem", color: "#666" }}>{date}</span>
-    </div>
+      >
+        <img
+          style={{
+            width: "75px",
+            height: "75px",
+            objectFit: "cover",
+            backgroundColor: "white",
+            borderRadius: "15px",
+            display: "block",
+            margin: "0 auto 0.5rem",
+          }}
+          src={thumbnail}
+          alt="thumbnail"
+        />
+        <span style={{ fontSize: "0.9rem", color: "#666" }}>{`${date}`}</span>
+      </div>
 
-    <div style={{ flex: 1 }}>
-      <Highlight color={color}>{title}</Highlight>
-      <br />
-      {description}
+      <div style={{ flex: 1 }}>
+        <Highlight color={color}>{title}</Highlight>
+        <br />
+        {description}
+      </div>
     </div>
-  </div>
-);
+  );
+};

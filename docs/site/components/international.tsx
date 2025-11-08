@@ -32,7 +32,7 @@ export function SetUpTranslation() {
   );
 }
 
-export function RenderTranslation({ tKey }: { tKey: string }) {
+export function RenderTranslation({ tKey, mb }: { tKey: string, mb?: string }) {
   const { t } = useTranslation();
-  return <>{t(tKey)}</>;
+  return <div style={{ marginBottom: mb ?? "0.5rem" }}>{t(tKey)}</div>;
 }
