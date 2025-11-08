@@ -32,7 +32,8 @@
             "answer": "A. See below link."
           },
           "q6": {
-            "question": "A. See belows."
+            "question": "Q. Have you ever deployed a smart contract on Mainnet?",
+            "answer": "A. See belows."
           }
         },
         "coffeeChat": {
@@ -124,7 +125,7 @@
             }
           }
         },
-        "cta": "Let's take a close look at them →"
+        "cta": "Let's take a close look at them"
       },
       "blog": {
         "intro": {
@@ -274,13 +275,13 @@
             }
           }
         },
-        "cta": "프로젝트를 자세히 살펴보기 →"
+        "cta": "프로젝트를 자세히 살펴보기"
       },
       "blog": {
         "intro": {
           "title": "블로그 | 소개",
           "date": "2025년 10월 7일",
-          "author": "작성자: 제이크 성",
+          "author": "작성자: 성종현",
           "paragraphs": {
             "p1": "한밤중에 문득 떠오르는 생각들을 그냥 흘려보내기엔 아까워서, 어딘가에 남겨야겠다는 생각이 들었습니다.",
             "p2": "아직 경력의 정점에 있다고 말하기는 어렵지만, 그동안의 여정 속에서 나름의 시선과 생각이 생겼습니다.",
