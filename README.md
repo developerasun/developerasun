@@ -1,4 +1,5 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
-
-Don't ever quit. <br/>
-![Image](https://github.com/user-attachments/assets/2cf760dd-c40f-4e8c-9d6d-3f67bd968b93)
+<h3 align="center">Shhhh, just show me the result.</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8dab780-a2cd-43e5-9477-2cc886678bd4" width="400" alt="Shhh">
+</p>
