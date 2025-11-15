@@ -29,6 +29,10 @@ export default defineConfig({
       link: "/portfolio",
       items: [
         {
+          text: "Minlink",
+          link: "/portfolio/minlink",
+        },
+        {
           text: "Hexbook",
           link: "/portfolio/hexbook",
         },

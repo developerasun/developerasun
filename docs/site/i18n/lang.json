@@ -108,6 +108,11 @@
           "title": "💻 Alive ones",
           "description": "Below side projects are relatively newer and maintained to some extent. Code exists, instance deployed, and versioning possible.",
           "projects": {
+            "minlink": {
+              "title": "Minlink",
+              "description": "Lightweight stable coin pegging watcher. Target to check coins on ethereum mainnet with custom thresholds.",
+              "date": "Nov 15, 2025"
+            },
             "hexbook": {
               "title": "Hexbook",
               "description": "QR code generator for Cryptocurrency tipping. Target to issue a simple invoice with `Ether` and `USDT`.",
@@ -258,6 +263,11 @@
           "title": "💻 유지 중인 프로젝트",
           "description": "아래 프로젝트들은 상대적으로 최근에 제작되어 지금도 일정 부분 유지·관리되고 있습니다. 코드, 배포 인스턴스, 버전 기록이 존재합니다.",
           "projects": {
+            "minlink": {
+              "title": "Minlink",
+              "description": "가벼운 스테이블코인 페깅 모니터링 도구. 이더리움 메인넷의 코인들을 커스텀 임계값으로 감시하는 것을 목표로 합니다.",
+              "date": "2025년 11월 15일"
+            },
             "hexbook": {
               "title": "Hexbook",
               "description": "암호화폐 팁을 위한 QR 코드 생성기. `Ether`와 `USDT`로 간단한 인보이스를 발행할 수 있습니다.",
