@@ -150,6 +150,20 @@
             "Is college useless when getting a job?"
           ],
           "closing": "So topics and tones will be quite random and raw as I just pour them out online without second thoughts."
+        },
+        "hire": {
+          "title": "Blog | Hire",
+          "date": "December 6, 2025",
+          "author": "by Jake Sung",
+          "paragraphs": {
+            "p1": "Sometimes I think hiring blockchain developers is extremely difficult. Not that hiring is ever easy anywhere, but recruiters in this field seem to struggle more than usual. Maybe it’s because proper evaluation is tricky.",
+            "p2": "The CTOs at companies where I was lucky enough to get interview opportunities all said the same thing: hiring in Web3 is extremely difficult. Looking at the blockchain industry, junior blockchain developers are like unicorns, and most people switch to blockchain after 5 to 7 years of experience. Even then, many get disappointed and pivot entirely to AI, or even if they don’t, the company ends up failing.",
+            "p3": "I tend to apply to companies I like even if my experience level doesn’t match, and CTOs often didn’t reject me immediately. Instead, they would get to know me and put me in the talent pool, hinting that I should gain more experience and come back.",
+            "p4": "And I understand why juniors are discouraged. There’s just too much to do and too much to learn. I’m doing it myself, but I wouldn’t particularly recommend it to a newcomer. It’s kind of like cigarettes. I’ve seen backend developers give up after I passionately explained things with diagrams because it was just too complicated, and then quietly return to the development they were doing before.",
+            "p5": "So the hiring pool is extremely narrow, and finding and validating good talent feels very difficult. It feels like veterans just do what veterans have always done. As a result, teams on the ground are dying due to lack of people, while job seekers are dying because there are no positions. Meanwhile, strict government regulations make running a blockchain company or startup very high-risk. Most set up overseas entities in places like Singapore and operate separately from the Korean branch to avoid legal risks.",
+            "p6": "Hiring developers is already difficult, and under these conditions, the difficulty only increases. Sometimes you go through all the trouble to hire someone who turns out to be a poor fit, and other times you randomly get a good one. You can’t just comfortably hire senior developers. From what I’ve seen, once a blockchain developer exceeds seven years of experience, you have to offer over 100 million KRW annually. In other words, it’s expensive. There are talks of SK Hynix offering eight-figure incentives in 2025, but isn’t a 100 million KRW contract salary still considered cheap? Not everyone works at a large corporation, after all."
+          },
+          "closing": "It’s a really tough industry. Both hiring and actual service development are difficult. Still, if you decide to do it, the reason matters. It really matters."
         }
       }
     }
@@ -305,6 +319,20 @@
             "취업할 때 대학 학위는 정말 의미가 있을까?"
           ],
           "closing": "그래서 이 블로그는 다소 즉흥적이고 거칠 수 있습니다. 떠오르는 대로 생각을 정리하고, 솔직하게 기록하려 합니다."
+        },
+        "hire": {
+          "title": "블로그 | 채용",
+          "date": "2025년 12월 6일",
+          "author": "작성자: Jake Sung",
+          "paragraphs": {
+            "p1": "가끔 생각하는 거지만 블록체인 개발자 채용은 굉장히 어려운 편인 것 같다. 어렵지 않은 채용은 어디 있겠냐만은, 채용 진행하시는 분들이 유달리 애를 먹는 느낌이었다. 검증하기가 까다롭다는 느낌일까.",
+            "p2": "내가 지원해서 운이 좋게도 면접 기회를 얻었던 기업들의 CTO분들은 공통적으로 하는 말이 있다. 웹3쪽은 사람 뽑기가 너무 어렵다. 실제로 블록체인 업계를 바라봤을 때 저연차 블록체인 개발자라는 건 유니콘 같은 느낌이고, 대부분은 5년차-7년차가 블록체인 쪽으로 전향하는 경우가 대부분이었다. 그나마도 실망하여 전부다 AI로 틀어버리거나 실망하지 않았다 하더라도 회사가 망해버리거나.",
+            "p3": "나는 연차가 맞지 않더라도 기업이 마음에 들면 지원을 하는 편인데, CTO분들이 바로 떨어뜨리지 않고 얼굴을 익힌 다음에 인재풀에 넣어둘테니 조금 더 경험을 쌓고 와라는 뉘앙스로 많이 말씀을 주셨다.",
+            "p4": "그리고 왜 저연차가 하면 안 되는지 나도 이해가 된다. 할 게 너무 많고, 알아야할 게 너무 많다. 나는 하고 있지만 신규 진입자가 한다고 하면 굳이 권하고 싶지 않다. 담배 같은 느낌이랄까. 동료 백엔드 개발자들에게 다이어그램 그려가며 열심히 공유해도 너무 복잡해 두손 두발 다 든 다음에 다시 하던 개발로 돌아가는 모습을 너무 많이 봤으니까.",
+            "p5": "그래서 채용 풀이 굉장히 좁은 분야이고, 좋은 인재를 찾기도 그리고 검증하기도 굉장히 어려운 느낌이다. 고인물들이 고인 것만 하는 느낌이랄까? 그래서 실무진은 사람이 없어 죽어 나가고, 취업을 준비하는 입장에서는 일자리가 없어 죽어나간다. 이 와중에 국가에서는 규제를 굉장히 빡빡하게 보니 블록체인 기업/스타트업 운영은 리스크가 굉장히 높은 분야다. 대부분은 싱가폴 등 해외 법인을 내고 한국 법인과 별도로 운영하는 식으로 리걸 리스크를 회피한다.",
+            "p6": "개발자 채용 자체가 어려운 편인데 상황이 이러니 더 채용 난이도는 올라간다. 고생 고생해서 뽑아놔도 마음에 안드는 경우도 있고, 별 생각 없었는데 얻어 걸리는 경우도 있고. 속 편하게 경력직 뽑으면 되지~ 할 수도 없다. 내가 본 바로는 블록체인 개발자가 7년차가 넘어가면 1억을 넘게 제시해야한다. 쉽게 말하자면 비싸다. 2025년 SK 하이닉스 인센티브가 억대라는 말도 있는데 계약 연봉 1억이면 싼 거 아닌가? 하지만 모두가 대기업 재직은 아니니까."
+          },
+          "closing": "참 어려운 산업이다. 채용도, 실제 서비스 개발도. 그럼에도 불구하고 해야 한다면, 이유가 중요할 것 같다. 굉장히 중요할 것 같다."
         }
       }
     }
