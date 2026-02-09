@@ -3,7 +3,7 @@
 :coffee:Coffee chat: 
 https://forms.gle/QrFAaXgbLnsxywhA7
 
-<h3>Shhhh, just show me the result.</h3>
+<h3>we all doomed so just enjoy</h3>
 <p>
-  <img src="https://github.com/user-attachments/assets/f8dab780-a2cd-43e5-9477-2cc886678bd4" width="400" alt="Shhh">
+  <img src="https://github.com/user-attachments/assets/f09f917e-6a84-40ed-af13-2bc827495e92" width="400" alt="yes" />
 </p>
