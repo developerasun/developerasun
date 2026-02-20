@@ -37,7 +37,7 @@ jobs:
           node-version: "24"
       - name: Install deps
         run: |
-          cd docs
+          cd docs/check
           npm install
       - name: Build docs
         run: |
