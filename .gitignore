@@ -4,8 +4,6 @@
 
 # Node modules
 /node_modules/
-docs/node_modules
-docs/site/dist
 
 # Logs
 /logs/
@@ -25,3 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 TASK.md
+
+docs/**/node_modules
+docs/site/dist
+.next
+out
