@@ -22,9 +22,7 @@ The best way to team up with me is via my **Google Form**.
 ## _Blog posts_
 
 <!-- BLOG-POST-LIST:START -->
-- [Release of Tailwind Nextjs Starter Blog v2.0](https://tailwind-nextjs-starter-blog.vercel.app/blog/release-of-tailwind-nextjs-starter-blog-v2.0)
-- [New features in v1](https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1)
-- [Introducing Multi-part Posts with Nested Routing](https://tailwind-nextjs-starter-blog.vercel.app/blog/nested-route/introducing-multi-part-posts-with-nested-routing)
-- [Introducing Tailwind Nextjs Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-tailwind-nextjs-starter-blog)
-- [Deriving the OLS Estimator](https://tailwind-nextjs-starter-blog.vercel.app/blog/deriving-ols-estimator)
+- [Images in Next.js](https://developerasun.github.io/hub/blog/guide-to-using-images-in-nextjs)
+- [The Time Machine](https://developerasun.github.io/hub/blog/the-time-machine)
+- [Sample .md file](https://developerasun.github.io/hub/blog/code-sample)
 <!-- BLOG-POST-LIST:END -->
