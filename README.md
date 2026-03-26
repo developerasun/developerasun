@@ -1,7 +1,8 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)<br/>
 [![Coffee Chat](https://img.shields.io/badge/Google_Form-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
 
-I occasionally receive collaboration inquiries via email.
+I occasionally receive collaboration inquiries via email. <br/>
+But the email often gets filtered as a spam.
 
 <p>
   <img width="400" alt="r0" loading="eagle" src="https://github.com/user-attachments/assets/3d5f85d8-f165-4d3a-82af-864e81413a76" />
