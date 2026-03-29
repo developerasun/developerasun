@@ -16,7 +16,7 @@ But the email often gets filtered as a spam.
   <img width="400" alt="r1" loading="eagle" src="https://github.com/user-attachments/assets/7792335f-1c8b-40b3-a671-14309609e62d" />
 </p>
 
-The best way to team up with me is via my **Google Form**.
+The best way to team up with me is via my **Google Form**. This will hit my discord so I can respond fast.
 
 [![Coffee Chat](https://img.shields.io/badge/Google_Form-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
 
