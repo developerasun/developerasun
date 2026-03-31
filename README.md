@@ -32,7 +32,6 @@ Read instruction, and eat your vegetable.
 ## _Blog posts_
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Images in Next.js](https://developerasun.github.io/hub/blog/guide-to-using-images-in-nextjs)
 - [The Time Machine](https://developerasun.github.io/hub/blog/the-time-machine)
 - [Sample .md file](https://developerasun.github.io/hub/blog/code-sample)
