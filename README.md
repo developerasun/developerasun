@@ -19,12 +19,6 @@ But the gmail often gets filtered as a spam.
 The best way to team up with me is via my **Google Form**. <br/>
 This will hit my discord so I can respond fast.
 
-I know it is cubersome to fill and submit a form. <br/> But this plays a role to push me to reply.
-
-And this is a logical filter for me which party is _really_ interested in working with me, also.
-
-Read instruction, and eat your vegetable.
-
 ⬇ The form ⬇
 
 [![Coffee Chat](https://img.shields.io/badge/Google_Form-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
