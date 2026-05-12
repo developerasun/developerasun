@@ -1,32 +1,52 @@
-![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)<br/>
-[![Coffee Chat](https://img.shields.io/badge/Google_Form-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
+<div align="center">
 
-I occasionally receive collaboration inquiries via gmail. <br/>
-But the gmail often gets filtered as a spam.
+![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
-<p>
-  <img width="400" alt="r0" loading="eagle" src="https://github.com/user-attachments/assets/3d5f85d8-f165-4d3a-82af-864e81413a76" />
-</p>
+# AsunLabs
 
-<p>
-  <img width="400" alt="r2" loading="eagle" src="https://github.com/user-attachments/assets/eaea9a23-d67f-40cb-9389-7fe72dde060a" />
-</p>
+**Building _real_ side hustles with AI.**
 
-<p>
-  <img width="400" alt="r1" loading="eagle" src="https://github.com/user-attachments/assets/7792335f-1c8b-40b3-a671-14309609e62d" />
-</p>
+[Blog](https://developerasun.github.io/hub) • [Threads](https://www.threads.com/@developerasun) • [Contact](https://forms.gle/QrFAaXgbLnsxywhA7)
 
-The best way to team up with me is via my **Google Form**. <br/>
-This will hit my discord so I can respond fast.
+_A project by [**developerasun**](https://github.com/developerasun)_
 
-⬇ The form ⬇
+---
 
-[![Coffee Chat](https://img.shields.io/badge/Google_Form-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
+## 🚢 Ship Log
 
-## _Blog posts_
+Turning niche ideas into _real_ revenue.
+
+| Project                                     | Description                               | Status      |
+| :------------------------------------------ | :---------------------------------------- | :---------- |
+| [**🧃 NicheJuice**](https://nichejuice.com) | AI-powered niche market discovery.        | **Preview** |
+| **🎹 Strudly.app**                          | Handling burnouts with programmable lofi. | Ideation    |
+
+</div>
+
+---
+
+## 🧃 Featured: NicheJuice
+
+**Extracting high-margin business insights from the noise.**
+
+> Currently my primary focus. Built to help makers find markets where demand outstrips supply.
+
+- **Core Tech:** Next.js, Sqlite, Drizzle, FastAPI, SQLModel, PydanticAI, MySQL, Redis
+- **Goal:** All-in-one business starter kit for solo-preneurs.
+
+---
+
+## Building In Public
+
+**Technical deep dives and building logs from the AsunLabs ecosystem.**
+
+> _Work in progress._
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Images in Next.js](https://developerasun.github.io/hub/blog/guide-to-using-images-in-nextjs)
 - [The Time Machine](https://developerasun.github.io/hub/blog/the-time-machine)
 - [Sample .md file](https://developerasun.github.io/hub/blog/code-sample)
 <!-- BLOG-POST-LIST:END -->
+
+---
