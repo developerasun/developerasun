@@ -16,10 +16,10 @@ _A project by [**developerasun**](https://github.com/developerasun)_
 
 Turning niche ideas into _real_ revenue.
 
-| Project                                     | Description                               | Status      |
-| :------------------------------------------ | :---------------------------------------- | :---------- |
-| [**🧃 NicheJuice**](https://nichejuice.com) | AI-powered niche market discovery.        | **Preview** |
-| **🎹 Strudly.app**                          | Handling burnouts with programmable lofi. | Ideation    |
+| Project                                                                                                 | Description                               | Status      |
+| :------------------------------------------------------------------------------------------------------ | :---------------------------------------- | :---------- |
+| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | AI-powered niche market discovery.        | **Preview** |
+| **🎹 Strudly.app**                                                                                      | Handling burnouts with programmable lofi. | Ideation    |
 
 </div>
 
