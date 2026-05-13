@@ -8,8 +8,6 @@
 
 [Threads](https://www.threads.com/@developerasun) • [Contact](https://forms.gle/QrFAaXgbLnsxywhA7)
 
-_A project by [**developerasun**](https://github.com/developerasun)_
-
 ---
 
 ## 🚢 Ship Log
@@ -35,3 +33,9 @@ Turning niche ideas into _real_ revenue.
 - **Goal:** All-in-one business starter kit for solo-preneurs.
 
 ---
+
+<div align="center">
+
+_Maintained by [**developerasun**](https://github.com/developerasun)_
+
+</div>
