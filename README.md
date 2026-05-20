@@ -2,11 +2,9 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
-# AsunLabs
+<img width="1600" height="300" alt="gh-header" src="./gh-header.png" />
 
-**Building _real_ side hustles with AI.**
-
-[Threads](https://www.threads.com/@developerasun) • [Contact](https://forms.gle/QrFAaXgbLnsxywhA7)
+[Blog](https://nichejuice.com/blog?utm_source=github&utm_medium=profile&utm_campaign=manifesto) • [Threads](https://www.threads.com/@developerasun)
 
 ---
 
@@ -17,7 +15,8 @@ Turning niche ideas into _real_ revenue.
 | Project                                                                                                 | Description                               | Status      |
 | :------------------------------------------------------------------------------------------------------ | :---------------------------------------- | :---------- |
 | [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | AI-powered niche market discovery.        | **Preview** |
-| **🎹 Strudly.app**                                                                                      | Handling burnouts with programmable lofi. | Ideation    |
+| **🎹 Strudly**                                                                                          | Handling burnouts with programmable lofi. | Ideation    |
+| **🦉 Traceowl**                                                                                         | Postmortem for agents.                    | Ideation    |
 
 </div>
 
