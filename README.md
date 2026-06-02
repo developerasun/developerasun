@@ -1,7 +1,5 @@
 <div align="center">
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
-
 <img width="1600" height="300" alt="gh-header" src="./gh-header.png" />
 
 [Blog](https://nichejuice.com/blog?utm_source=github&utm_medium=profile&utm_campaign=manifesto) • [Threads](https://www.threads.com/@developerasun)
@@ -33,8 +31,16 @@ Turning niche ideas into _real_ revenue.
 
 ---
 
+## ✍️ Blog
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
 
 _Maintained by [**developerasun**](https://github.com/developerasun)_
+
+![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
 </div>
