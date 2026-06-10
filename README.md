@@ -25,11 +25,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
-<li>[The Mindset We Need In The Era Of AI](https://nichejuice.com/blog/series/ai-background-knowledge/we-are-the-ai-babies)</li>
-<li>[AI Workflows for Solopreneurs: Why I Started This Series](https://nichejuice.com/blog/series/ai-solopreneur-toolkit/why-ai-toolkit-for-solopreneur)</li>
-<li>[How to Escape AI FOMO](https://nichejuice.com/blog/series/ai-background-knowledge/escaping-ai-fomo)</li>
-<li>[Why I’m Sharing the NicheJuice Journey on Threads](https://nichejuice.com/blog/series/devlog/build-in-public-on-threads)</li>
-<li>[NicheJuice: Making the Solopreneur Journey Less Lonely](https://nichejuice.com/blog/series/notice/introducing-nichejuice)</li>
+<li><a href='https://nichejuice.com/blog/series/ai-background-knowledge/we-are-the-ai-babies'>The Mindset We Need In The Era Of AI</a></li>
+<li><a href='https://nichejuice.com/blog/series/ai-solopreneur-toolkit/why-ai-toolkit-for-solopreneur'>AI Workflows for Solopreneurs: Why I Started This Series</a></li>
+<li><a href='https://nichejuice.com/blog/series/ai-background-knowledge/escaping-ai-fomo'>How to Escape AI FOMO</a></li>
+<li><a href='https://nichejuice.com/blog/series/devlog/build-in-public-on-threads'>Why I’m Sharing the NicheJuice Journey on Threads</a></li>
+<li><a href='https://nichejuice.com/blog/series/notice/introducing-nichejuice'>NicheJuice: Making the Solopreneur Journey Less Lonely</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
