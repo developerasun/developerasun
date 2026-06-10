@@ -8,13 +8,12 @@
 
 ## 🚢 Ship Log
 
-Turning niche ideas into _real_ revenue.
+Ideation -> Building -> Beta -> Live/Archived
 
-| Project                                                                                                 | Description                               | Status      |
-| :------------------------------------------------------------------------------------------------------ | :---------------------------------------- | :---------- |
-| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | AI-powered niche market discovery.        | **Preview** |
-| **🎹 Strudly**                                                                                          | Handling burnouts with programmable lofi. | Ideation    |
-| **🦉 Traceowl**                                                                                         | Postmortem for agents.                    | Ideation    |
+| Project                                                                                                 | Description                                  | Status   |
+| :------------------------------------------------------------------------------------------------------ | :------------------------------------------- | :------- |
+| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | AI-powered niche market discovery.           | **Beta** |
+| **🔏 TypeLock**                                                                                         | Keyboard blocker for finger pain prevention. | Ideation |
 
 </div>
 
@@ -34,6 +33,7 @@ Turning niche ideas into _real_ revenue.
 ## ✍️ Blog
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The Mindset We Need In The Era Of AI](https://nichejuice.com/blog/series/ai-background-knowledge/we-are-the-ai-babies)
 - [AI Workflows for Solopreneurs: Why I Started This Series](https://nichejuice.com/blog/series/ai-solopreneur-toolkit/why-ai-toolkit-for-solopreneur)
 - [How to Escape AI FOMO](https://nichejuice.com/blog/series/ai-background-knowledge/escaping-ai-fomo)
