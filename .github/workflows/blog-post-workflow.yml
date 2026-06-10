@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://nichejuice.com/rss.xml"
+          template: "<li>[$title]($url)</li>$newline"
+          tag_post_pre_newline: true
