@@ -10,10 +10,11 @@
 
 Ideation -> Building -> Beta -> Live/Archived
 
-| Project                                                                                                 | Description                                  | Status   |
-| :------------------------------------------------------------------------------------------------------ | :------------------------------------------- | :------- |
-| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | AI-powered niche market discovery.           | **Beta** |
-| **🔏 TypeLock**                                                                                         | Keyboard blocker for finger pain prevention. | Ideation |
+| Project                                                                                                 | Description                                        | Status   |
+| :------------------------------------------------------------------------------------------------------ | :------------------------------------------------- | :------- |
+| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | AI-powered niche market discovery.                 | **Beta** |
+| **🔏 TypeLock**                                                                                         | Keyboard blocker for finger pain prevention.       | Ideation |
+| **😼 CatKnock!**                                                                                        | A game where you tap to knock things off the desk. | Ideation |
 
 </div>
 
