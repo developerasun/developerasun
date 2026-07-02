@@ -27,9 +27,9 @@ Ideation -> Building -> Beta -> Live/Archived
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
 <li><a href='https://nichejuice.com/blog/series/ai-background-knowledge/the-mindset-we-need-in-the-era-of-ai'>The Mindset We Need In The Era Of AI</a></li>
-<li><a href='https://nichejuice.com/blog/series/ai-solopreneur-toolkit/why-ai-toolkit-for-solopreneur'>AI Workflows for Solopreneurs: Why I Started This Series</a></li>
+<li><a href='https://nichejuice.com/blog/series/ai-solopreneur-toolkit/ai-workflows-for-solopreneurs-why-i-started-this-series'>AI Workflows for Solopreneurs: Why I Started This Series</a></li>
 <li><a href='https://nichejuice.com/blog/series/ai-background-knowledge/escaping-ai-fomo'>How to Escape AI FOMO</a></li>
-<li><a href='https://nichejuice.com/blog/series/devlog/build-in-public-on-threads'>Why I’m Sharing the NicheJuice Journey on Threads</a></li>
+<li><a href='https://nichejuice.com/blog/series/devlog/why-im-sharing-the-nichejuice-journey-on-threads'>Why I’m Sharing the NicheJuice Journey on Threads</a></li>
 <li><a href='https://nichejuice.com/blog/series/notice/introducing-nichejuice'>NicheJuice: Making the Solopreneur Journey Less Lonely</a></li>
 
 <!-- BLOG-POST-LIST:END -->
