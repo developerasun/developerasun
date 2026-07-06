@@ -26,11 +26,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
-<li><a href='https://nichejuice.com/blog/series/ai-background-knowledge/the-mindset-we-need-in-the-era-of-ai'>The Mindset We Need In The Era Of AI</a></li>
-<li><a href='https://nichejuice.com/blog/series/ai-solopreneur-toolkit/ai-workflows-for-solopreneurs-why-i-started-this-series'>AI Workflows for Solopreneurs: Why I Started This Series</a></li>
-<li><a href='https://nichejuice.com/blog/series/ai-background-knowledge/escaping-ai-fomo'>How to Escape AI FOMO</a></li>
-<li><a href='https://nichejuice.com/blog/series/devlog/why-im-sharing-the-nichejuice-journey-on-threads'>Why I’m Sharing the NicheJuice Journey on Threads</a></li>
-<li><a href='https://nichejuice.com/blog/series/notice/introducing-nichejuice'>NicheJuice: Making the Solopreneur Journey Less Lonely</a></li>
+<li><a href='https://nichejuice.com/blog/series/announcement/the-nichejuice-rss-feed-just-went-live'>The NicheJuice RSS Feed Just Went Live</a></li>
+<li><a href='https://nichejuice.com/blog/series/foundations/the-mindset-we-need-in-the-era-of-ai'>The Mindset We Need In The Era Of AI</a></li>
+<li><a href='https://nichejuice.com/blog/series/niche-or-miss/niche-to-launch-watch-me-figure-it-out-in-real-time'>Niche to Launch: Watch Me Figure It Out in Real Time</a></li>
+<li><a href='https://nichejuice.com/blog/series/foundations/escaping-ai-fomo'>How to Escape AI FOMO</a></li>
+<li><a href='https://nichejuice.com/blog/series/build-in-public/why-im-sharing-the-nichejuice-journey-on-threads'>Why I’m Sharing the NicheJuice Journey on Threads</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
