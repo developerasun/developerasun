@@ -26,11 +26,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li><a href='https://nichejuice.com/blog/series/build-in-public/building-a-blog-rss-feed-with-an-ai-agent'>Building a Blog RSS Feed With an AI Agent</a></li>
 <li><a href='https://nichejuice.com/blog/series/announcement/the-nichejuice-rss-feed-just-went-live'>The NicheJuice RSS Feed Just Went Live</a></li>
 <li><a href='https://nichejuice.com/blog/series/foundations/the-mindset-we-need-in-the-era-of-ai'>The Mindset We Need In The Era Of AI</a></li>
 <li><a href='https://nichejuice.com/blog/series/niche-or-miss/niche-to-launch-watch-me-figure-it-out-in-real-time'>Niche to Launch: Watch Me Figure It Out in Real Time</a></li>
 <li><a href='https://nichejuice.com/blog/series/foundations/escaping-ai-fomo'>How to Escape AI FOMO</a></li>
-<li><a href='https://nichejuice.com/blog/series/build-in-public/why-im-sharing-the-nichejuice-journey-on-threads'>Why I’m Sharing the NicheJuice Journey on Threads</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
