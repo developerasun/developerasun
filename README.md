@@ -39,7 +39,7 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <div align="center">
 
-_Maintained by [**developerasun**](https://github.com/developerasun)_
+_Maintained by [**developerasun**](https://nichejuice.com/about?utm_source=github&utm_medium=profile&utm_campaign=manifesto)_
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=developerasun)
 
