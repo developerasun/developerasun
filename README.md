@@ -26,11 +26,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li><a href='https://nichejuice.com/blog/series/announcement/nichejuice-june-2026-update-from-beta-to-live'>NicheJuice June 2026 Update: From Beta to Live</a></li>
 <li><a href='https://nichejuice.com/blog/series/foundations/how-i-use-logseq-work-sessions-to-avoid-burnout'>How I Use Logseq Work Sessions to Avoid Burnout</a></li>
 <li><a href='https://nichejuice.com/blog/series/build-in-public/one-weak-area-can-hold-back-the-whole-brand'>One Weak Area Can Hold Back the Whole Brand</a></li>
 <li><a href='https://nichejuice.com/blog/series/build-in-public/building-a-blog-rss-feed-with-an-ai-agent'>Building a Blog RSS Feed With an AI Agent</a></li>
 <li><a href='https://nichejuice.com/blog/series/announcement/the-nichejuice-rss-feed-just-went-live'>The NicheJuice RSS Feed Just Went Live</a></li>
-<li><a href='https://nichejuice.com/blog/series/foundations/the-mindset-we-need-in-the-era-of-ai'>The Mindset We Need In The Era Of AI</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
