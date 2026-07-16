@@ -17,5 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://nichejuice.com/rss.xml"
+          date_format: "mmm dd, yyyy"
           template: "<li><a href='$url'>$title</a></li>$newline"
           tag_post_pre_newline: true
