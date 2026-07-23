@@ -26,11 +26,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Jul 22, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/how-i-rebuilt-the-nichejuice-design-system'>How I Rebuilt the NicheJuice Design System</a></li>
 <li>Jul 19, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/the-perfect-day-to-quit-never-comes'>The Perfect Day to Quit Never Comes</a></li>
 <li>Jul 19, 2026 — <a href='https://nichejuice.com/blog/series/foundations/what-is-a-large-language-model-llm-how-it-generates-an-answer'>What Is a Large Language Model &lpar;LLM&rpar;? How It Generates an Answer</a></li>
 <li>Jul 16, 2026 — <a href='https://nichejuice.com/blog/series/foundations/what-is-ai-slop-how-to-spot-and-fix-low-quality-ai-content'>What Is AI Slop? How to Spot and Fix Low-Quality AI Content</a></li>
 <li>Jul 15, 2026 — <a href='https://nichejuice.com/blog/series/foundations/what-is-designmd-a-practical-guide-to-keeping-your-ui-consistent'>What Is DESIGN.md? A Practical Guide to Keeping Your UI Consistent</a></li>
-<li>Jul 13, 2026 — <a href='https://nichejuice.com/blog/series/foundations/what-is-agentsmd-a-readme-for-ai-coding-agents'>What Is AGENTS.md? A README for AI Coding Agents</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
