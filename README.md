@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Aug 23, 2026 — <a href='https://nichejuice.com/blog/series/foundations/what-is-model-context-protocol-mcp-how-it-works-with-tool-calling'>What Is Model Context Protocol &lpar;MCP&rpar;? How It Works with Tool Calling</a></li>
 <li>Aug 19, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/line-found-my-side-projects-on-github'>LINE Found My Side Projects on GitHub</a></li>
 <li>Aug 16, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/laptop-keyboard-locker-why-im-building-typelock'>Laptop Keyboard Locker: Why I&#39;m Building TypeLock</a></li>
 <li>Aug 12, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/i-asked-threads-about-adding-audio-to-my-blog-and-got-nowhere'>I Asked Threads About Adding Audio to My Blog and Got Nowhere</a></li>
 <li>Aug 09, 2026 — <a href='https://nichejuice.com/blog/series/foundations/what-is-skillmd-structure-examples-and-how-to-build-one'>What Is SKILL.md? Structure, Examples, and How to Build One</a></li>
-<li>Aug 05, 2026 — <a href='https://nichejuice.com/blog/series/announcement/nichejuice-july-2026-update-the-first-kit-is-now-available'>NicheJuice July 2026 Update: The First Kit Is Now Available</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
