@@ -18,7 +18,7 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <div align="center">
 
-## ✍️ Blog
+## 🧃 Latest from NicheJuice
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
