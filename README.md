@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Sep 11, 2026 — <a href='https://nichejuice.com/kits/compliance-deadline-tracking-for-startups'>[Kit] Compliance Deadline Tracking for Startups</a></li>
 <li>Sep 09, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/how-i-find-color-palette-inspiration-as-a-solopreneur'>[Blog] How I Find Color Palette Inspiration as a Solopreneur</a></li>
 <li>Sep 06, 2026 — <a href='https://nichejuice.com/blog/series/announcement/nichejuice-august-updates-find-the-right-kit-faster'>[Blog] NicheJuice August Updates: Find the Right Kit Faster</a></li>
 <li>Sep 04, 2026 — <a href='https://nichejuice.com/kits/simple-asset-procurement-for-small-teams'>[Kit] Simple Asset Procurement for Small Teams</a></li>
 <li>Aug 29, 2026 — <a href='https://nichejuice.com/kits/a-focused-keyshot-alternative'>[Kit] A Focused KeyShot Alternative</a></li>
-<li>Aug 24, 2026 — <a href='https://nichejuice.com/kits/fast-2d-room-layout-iteration'>[Kit] Fast 2D Room Layout Iteration</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
