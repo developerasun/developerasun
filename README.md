@@ -9,7 +9,7 @@ Ideation -> Building -> Beta -> Live/Archived
 | Project                                                                                                 | Description                                        | Status   |
 | :------------------------------------------------------------------------------------------------------ | :------------------------------------------------- | :------- |
 | [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | Niche catalogs with stater kit for solopreneur.    | **Live** |
-| **🔏 TypeLock**                                                                                         | Keyboard blocker for finger pain prevention.       | **Beta** |
+| [**🔏 TypeLock**](https://asunlabs.lemonsqueezy.com/checkout/buy/76e7db6c-99f1-47a0-9e9a-9cd97682ba76)  | Keyboard blocker for finger pain prevention.       | **Live** |
 | **😼 CatKnock!**                                                                                        | A game where you tap to knock things off the desk. | Ideation |
 
 </div>
