@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Sep 25, 2026 — <a href='https://nichejuice.com/kits/ai-content-filters-for-social-feeds'>[Kit] AI Content Filters for Social Feeds</a></li>
+<li>Sep 25, 2026 — <a href='https://nichejuice.com/blog/series/announcement/400-pain-point-signals-for-better-niche-research'>[Blog] 400+ Pain-Point Signals for Better Niche Research</a></li>
 <li>Sep 24, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/my-first-viral-threads-post-barely-moved-website-traffic'>[Blog] My First Viral Threads Post Barely Moved Website Traffic</a></li>
 <li>Sep 20, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/i-tested-one-niche-idea-on-threads-before-finishing-the-catalog'>[Blog] I Tested One Niche Idea on Threads Before Finishing the Catalog</a></li>
 <li>Sep 18, 2026 — <a href='https://nichejuice.com/kits/quote-to-invoice-for-handymen'>[Kit] Quote-to-Invoice for Handymen</a></li>
-<li>Sep 17, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/why-i-cut-my-github-star-list-from-nearly-700-repositories-to-four'>[Blog] Why I Cut My GitHub Star List From Nearly 700 Repositories to Four</a></li>
-<li>Sep 14, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/my-ai-coding-agent-read-an-api-key'>[Blog] My AI Coding Agent Read an API Key.</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
