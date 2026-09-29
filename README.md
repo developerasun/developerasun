@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
-<li>Sep 27, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/blog-layout-decisions-when-your-product-still-lacks-content'>[Blog] Blog Layout Decisions When Your Product Still Lacks Content</a></li>
-<li>Sep 25, 2026 — <a href='https://nichejuice.com/kits/ai-content-filters-for-social-feeds'>[Kit] AI Content Filters for Social Feeds</a></li>
-<li>Sep 25, 2026 — <a href='https://nichejuice.com/blog/series/announcement/400-pain-point-signals-for-better-niche-research'>[Blog] 400+ Pain-Point Signals for Better Niche Research</a></li>
-<li>Sep 24, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/my-first-viral-threads-post-barely-moved-website-traffic'>[Blog] My First Viral Threads Post Barely Moved Website Traffic</a></li>
-<li>Sep 20, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/i-tested-one-niche-idea-on-threads-before-finishing-the-catalog'>[Blog] I Tested One Niche Idea on Threads Before Finishing the Catalog</a></li>
+<li>Sep 27, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/blog-layout-decisions-when-your-product-still-lacks-content?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Blog Layout Decisions When Your Product Still Lacks Content</a></li>
+<li>Sep 25, 2026 — <a href='https://nichejuice.com/kits/ai-content-filters-for-social-feeds?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] AI Content Filters for Social Feeds</a></li>
+<li>Sep 25, 2026 — <a href='https://nichejuice.com/blog/series/announcement/400-pain-point-signals-for-better-niche-research?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] 400+ Pain-Point Signals for Better Niche Research</a></li>
+<li>Sep 24, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/my-first-viral-threads-post-barely-moved-website-traffic?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] My First Viral Threads Post Barely Moved Website Traffic</a></li>
+<li>Sep 20, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/i-tested-one-niche-idea-on-threads-before-finishing-the-catalog?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] I Tested One Niche Idea on Threads Before Finishing the Catalog</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
