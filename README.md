@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Oct 02, 2026 — <a href='https://nichejuice.com/kits/mac-screenshot-and-ocr-workflow?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Mac Screenshot and OCR Workflow</a></li>
 <li>Oct 01, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/is-it-worth-my-first-six-weeks-with-openai-codex?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Is It Worth? My First Six Weeks With OpenAI Codex</a></li>
 <li>Sep 27, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/blog-layout-decisions-when-your-product-still-lacks-content?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Blog Layout Decisions When Your Product Still Lacks Content</a></li>
 <li>Sep 25, 2026 — <a href='https://nichejuice.com/kits/ai-content-filters-for-social-feeds?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] AI Content Filters for Social Feeds</a></li>
 <li>Sep 25, 2026 — <a href='https://nichejuice.com/blog/series/announcement/400-pain-point-signals-for-better-niche-research?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] 400+ Pain-Point Signals for Better Niche Research</a></li>
-<li>Sep 24, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/my-first-viral-threads-post-barely-moved-website-traffic?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] My First Viral Threads Post Barely Moved Website Traffic</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
