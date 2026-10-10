@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Oct 09, 2026 — <a href='https://nichejuice.com/kits/persistent-memory-for-ai-companions?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Persistent Memory for AI Companions</a></li>
 <li>Oct 07, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/can-a-30-minute-mvp-validate-a-business-idea?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Can a 30-Minute MVP Validate a Business Idea?</a></li>
 <li>Oct 05, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/when-a-side-project-should-become-a-lead-magnet?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] When a Side Project Should Become a Lead Magnet</a></li>
 <li>Oct 02, 2026 — <a href='https://nichejuice.com/kits/mac-screenshot-and-ocr-workflow?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Mac Screenshot and OCR Workflow</a></li>
 <li>Oct 01, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/is-it-worth-my-first-six-weeks-with-openai-codex?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Is It Worth? My First Six Weeks With OpenAI Codex</a></li>
-<li>Sep 27, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/blog-layout-decisions-when-your-product-still-lacks-content?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Blog Layout Decisions When Your Product Still Lacks Content</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
