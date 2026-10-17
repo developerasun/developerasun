@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Oct 16, 2026 — <a href='https://nichejuice.com/kits/digital-album-liner-notes?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Digital Album Liner Notes</a></li>
 <li>Oct 15, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/a-lemon-squeezy-lead-magnet-what-about-existing-users?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] A Lemon Squeezy Lead Magnet: What About Existing Users?</a></li>
 <li>Oct 12, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/why-consider-microsoft-store-for-a-small-app?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Why Consider Microsoft Store for a Small App?</a></li>
 <li>Oct 09, 2026 — <a href='https://nichejuice.com/kits/persistent-memory-for-ai-companions?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Persistent Memory for AI Companions</a></li>
 <li>Oct 07, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/can-a-30-minute-mvp-validate-a-business-idea?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Can a 30-Minute MVP Validate a Business Idea?</a></li>
-<li>Oct 05, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/when-a-side-project-should-become-a-lead-magnet?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] When a Side Project Should Become a Lead Magnet</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
