@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Oct 30, 2026 — <a href='https://nichejuice.com/kits/affordable-alternative-to-everydollar?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Affordable Alternative to EveryDollar</a></li>
 <li>Oct 29, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/how-to-validate-a-business-idea-across-online-channels?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] How to Validate a Business Idea Across Online Channels</a></li>
 <li>Oct 26, 2026 — <a href='https://nichejuice.com/blog/series/announcement/side-business-resources-for-aspiring-solopreneurs?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Side Business Resources for Aspiring Solopreneurs</a></li>
 <li>Oct 25, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/customer-pain-points-how-to-interpret-feature-requests?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Customer Pain Points: How to Interpret Feature Requests</a></li>
 <li>Oct 21, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/niche-research-what-to-check-before-building-an-mvp?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Niche Research: What to Check Before Building an MVP</a></li>
-<li>Oct 19, 2026 — <a href='https://nichejuice.com/kits/drawing-apps-without-subscriptions?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Drawing Apps Without Subscriptions</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
