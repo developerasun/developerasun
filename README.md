@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Nov 12, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/find-saas-ideas-in-an-industry-you-dont-know?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Find SaaS Ideas in an Industry You Don&#39;t Know</a></li>
 <li>Nov 08, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/what-vibe-coding-means-lower-the-bar-raise-the-bar?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] What Vibe Coding Means: Lower the Bar, Raise the Bar</a></li>
 <li>Nov 07, 2026 — <a href='https://nichejuice.com/kits/custom-tag-trading-journal?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Custom-Tag Trading Journal</a></li>
 <li>Nov 05, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/finding-balance-between-ai-advice-and-human-judgment?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Finding Balance Between AI Advice and Human Judgment</a></li>
 <li>Nov 02, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/should-i-build-an-app-when-existing-tools-work-well?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Should I Build an App When Existing Tools Work Well?</a></li>
-<li>Oct 30, 2026 — <a href='https://nichejuice.com/kits/affordable-alternative-to-everydollar?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Affordable Alternative to EveryDollar</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
