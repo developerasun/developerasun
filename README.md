@@ -22,11 +22,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Nov 21, 2026 — <a href='https://nichejuice.com/kits/transaction-capture-for-solo-operators?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Transaction Capture for Solo Operators</a></li>
 <li>Nov 19, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/how-to-find-online-communities-your-customers-use?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] How to Find Online Communities Your Customers Use</a></li>
 <li>Nov 16, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/ai-beginner-mistake-starting-with-a-blank-page?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] AI Beginner Mistake: Starting With a Blank Page</a></li>
 <li>Nov 14, 2026 — <a href='https://nichejuice.com/kits/cross-platform-invoice-reconciliation?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Cross-Platform Invoice Reconciliation</a></li>
 <li>Nov 12, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/find-saas-ideas-in-an-industry-you-dont-know?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Find SaaS Ideas in an Industry You Don&#39;t Know</a></li>
-<li>Nov 08, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/what-vibe-coding-means-lower-the-bar-raise-the-bar?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] What Vibe Coding Means: Lower the Bar, Raise the Bar</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
