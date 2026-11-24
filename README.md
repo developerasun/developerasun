@@ -4,6 +4,8 @@
 
 ## 🚢 Ship Log
 
+Ideation -> Building -> Beta -> Live/Archived
+
 | Project                                                                                                 | Description                                                                                                             | Status   | With AI? | Source                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------- | -------- | ------------------------------------------------------------ |
 | [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | Niche reports built from real customer complaints.                                                                      | **Live** | Yes      | Private                                                      |
