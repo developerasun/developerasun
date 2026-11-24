@@ -4,13 +4,20 @@
 
 ## 🚢 Ship Log
 
-Ideation -> Building -> Beta -> Live/Archived
-
-| Project                                                                                                 | Description                                                     | Status   |
-| :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------- | :------- |
-| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | Niche reports built from real customer complaints.              | **Live** |
-| [**🔏 TypeLock**](https://asunlabs.lemonsqueezy.com/checkout/buy/76e7db6c-99f1-47a0-9e9a-9cd97682ba76)  | Keyboard blocker for finger pain prevention.                    | **Live** |
-| **😼 CatKnock!**                                                                                        | Play as a cat. Knock stuff off the desk without getting caught! | Building |
+| Project                                                                                                 | Description                                                                                                             | Status   | With AI? | Source                                                       |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------- | -------- | ------------------------------------------------------------ |
+| [**🧃 NicheJuice**](https://nichejuice.com?utm_source=github&utm_medium=profile&utm_campaign=manifesto) | Niche reports built from real customer complaints.                                                                      | **Live** | Yes      | Private                                                      |
+| [**🔏 TypeLock**](https://asunlabs.lemonsqueezy.com/checkout/buy/76e7db6c-99f1-47a0-9e9a-9cd97682ba76)  | Keyboard blocker for finger pain prevention.                                                                            | **Live** | Yes      | Private                                                      |
+| **😼 CatKnock!**                                                                                        | Play as a cat. Knock stuff off the desk without getting caught!                                                         | Building | Yes      | Private                                                      |
+| 🤖 Botbot                                                                                               | Discord bot for attendance check.                                                                                       | Archived | Yes      | [Public](https://github.com/developerasun/botbot)            |
+| 🔳 Hexbook                                                                                              | Crypto QR code generator.                                                                                               | Archived | No       | [Public](https://github.com/developerasun/hexbook)           |
+| 🥝 Kiwiwi                                                                                               | [Gin](https://github.com/gin-gonic/gin) Code generation CLI.                                                            | Archived | No       | [Public](https://github.com/developerasun/kiwiwi)            |
+| 🦙 Lollama                                                                                              | NVIDIA GPU container setup guide.                                                                                       | Archived | No       | [Public](https://github.com/developerasun/lollama)           |
+| 📈 Minlink                                                                                              | Stable coin price change monitoring tool.                                                                               | Archived | No       | [Public](https://github.com/developerasun/minlink)           |
+| 🦉 Owlly                                                                                                | Dotenv change notifier desktop app.                                                                                     | Archived | No       | [Public](https://github.com/developerasun/owlly)             |
+| 🗳️ Ricktcal World Cup                                                                                   | Crypto-based [Trickcal:Revive](https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive) voting dapp. | Archived | No       | [Public](https://github.com/developerasun/ricktcal-worldcup) |
+| 🐾 Meowrun                                                                                              | Play as a cat. Race till the end avoiding all hurdles. 3D Platformer.                                                   | Archived | No       | Private                                                      |
+| 🐕 Watchdog                                                                                             | Dead simple healthcheck cronjob.                                                                                        | Archived | No       | Private                                                      |
 
 </div>
 
