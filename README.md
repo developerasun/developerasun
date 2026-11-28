@@ -32,11 +32,11 @@ Ideation -> Building -> Beta -> Live/Archived
 
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+<li>Nov 28, 2026 — <a href='https://nichejuice.com/kits/bill-allocation-for-each-paycheck?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Bill Allocation for Each Paycheck</a></li>
 <li>Nov 25, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/are-people-already-paying-to-solve-this-problem?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] Are People Already Paying to Solve This Problem?</a></li>
 <li>Nov 23, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/my-coding-agent-is-already-better-than-me?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] My Coding Agent Is Already Better Than Me</a></li>
 <li>Nov 21, 2026 — <a href='https://nichejuice.com/kits/transaction-capture-for-solo-operators?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Kit] Transaction Capture for Solo Operators</a></li>
 <li>Nov 19, 2026 — <a href='https://nichejuice.com/blog/series/niche-or-miss/how-to-find-online-communities-your-customers-use?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] How to Find Online Communities Your Customers Use</a></li>
-<li>Nov 16, 2026 — <a href='https://nichejuice.com/blog/series/build-in-public/ai-beginner-mistake-starting-with-a-blank-page?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=content_distribution&amp;utm_content=latest_content'>[Blog] AI Beginner Mistake: Starting With a Blank Page</a></li>
 
 <!-- BLOG-POST-LIST:END -->
 </ul>
